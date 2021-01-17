@@ -1,0 +1,4078 @@
+,YEAR,DISPOSITION_CHARGED_CLASS,MUNICIPALI,CASE_ID
+0,2015,1,Alsip,410
+1,2015,1,Arlington Heights,164
+2,2015,1,Bartlett,26
+3,2015,1,Bedford Park,17
+4,2015,1,Bellwood,48
+5,2015,1,Berkeley,6
+6,2015,1,Berwyn,88
+7,2015,1,Blue Island,543
+8,2015,1,Bridgeview,29
+9,2015,1,Broadview,30
+10,2015,1,Brookfield,31
+11,2015,1,Buffalo Grove,12
+12,2015,1,Burbank,56
+13,2015,1,Burnham,5
+14,2015,1,Burr Ridge,4
+15,2015,1,Calumet City,185
+16,2015,1,Calumet Park,466
+17,2015,1,Chicago,30935
+18,2015,1,Chicago Heights,153
+19,2015,1,Chicago Hts,1
+20,2015,1,Chicago Ridge,39
+21,2015,1,Cicero,471
+22,2015,1,Country Club Hills,147
+23,2015,1,Countryside,12
+24,2015,1,Crestwood,12
+25,2015,1,Des Plaines,598
+26,2015,1,Dixmoor,1
+27,2015,1,Dolton,482
+28,2015,1,East Hazel Crest,1
+29,2015,1,Elgin,70
+30,2015,1,Elk Grove Village,27
+31,2015,1,Elmhurst,4
+32,2015,1,Elmwood Park,50
+33,2015,1,Evanston,1376
+34,2015,1,Evergreen Park,32
+35,2015,1,Ford Heights,34
+36,2015,1,Forest Park,54
+37,2015,1,Forestview,2
+38,2015,1,Franklin Park,155
+39,2015,1,Glencoe,11
+40,2015,1,Glenview,145
+41,2015,1,Glenwood,24
+42,2015,1,Halstead,8
+43,2015,1,Hanover Park,16
+44,2015,1,Harvey,444
+45,2015,1,Harwood Heights,3
+46,2015,1,Hazel Crest,47
+47,2015,1,Hillside,9
+48,2015,1,Hodgkins,7
+49,2015,1,Hoffman Est,3
+50,2015,1,Hoffman Estates,94
+51,2015,1,Homewood,182
+52,2015,1,Ind Head Park,6
+53,2015,1,Indian Head Park,6
+54,2015,1,Inverness,2
+55,2015,1,Justice,7
+56,2015,1,La Grange,4
+57,2015,1,La Grange Park,9
+58,2015,1,Lansing,94
+59,2015,1,Lemont,1452
+60,2015,1,Lincolnwood,25
+61,2015,1,Lynwood,15
+62,2015,1,Lyons,8
+63,2015,1,Markham,895
+64,2015,1,Matteson,299
+65,2015,1,Maywood,225
+66,2015,1,Melrose Park,144
+67,2015,1,Merrionette Park,1
+68,2015,1,Midlothian,72
+69,2015,1,Morton Grove,57
+70,2015,1,Mount Prospect,67
+71,2015,1,Mt Prospect,4
+72,2015,1,Niles,34
+73,2015,1,Norridge,11
+74,2015,1,North Riverside,4
+75,2015,1,Northbrook,105
+76,2015,1,Northlake,15
+77,2015,1,Oak Forest,155
+78,2015,1,Oak Lawn,52
+79,2015,1,Oak Park,61
+80,2015,1,Olympia Fields,15
+81,2015,1,Orland Hills,3
+82,2015,1,Orland Park,63
+83,2015,1,Palatine,92
+84,2015,1,Palos Heights,80
+85,2015,1,Palos Hills,17
+86,2015,1,Palos Park,3
+87,2015,1,Park Forest,89
+88,2015,1,Park Ridge,7
+89,2015,1,Phoenix,6
+90,2015,1,Posen,41
+91,2015,1,Prospect Heights,2
+92,2015,1,Richton Park,9
+93,2015,1,River Forest,188
+94,2015,1,River Grove,16
+95,2015,1,Riverdale,330
+96,2015,1,Riverside,41
+97,2015,1,Robbins,26
+98,2015,1,Rolling Meadows,175
+99,2015,1,Roselle,4
+100,2015,1,Rosemont,74
+101,2015,1,Sauk Village,119
+102,2015,1,Schaumburg,22
+103,2015,1,Schiller Park,12
+104,2015,1,Skokie,109
+105,2015,1,South Barrington,7
+106,2015,1,South Holland,1704
+107,2015,1,Steger,5
+108,2015,1,Stickney,25
+109,2015,1,Stone Park,5
+110,2015,1,Streamwood,109
+111,2015,1,Summit,100
+112,2015,1,Tinley Park,67
+113,2015,1,University Park,5
+114,2015,1,Westchester,24
+115,2015,1,Westmont,6
+116,2015,1,Wheeling,85
+117,2015,1,Wilmette,7
+118,2015,1,Winnetka,27
+119,2015,1,Worth,7
+120,2015,2,Alsip,245
+121,2015,2,Arlington Heights,255
+122,2015,2,Barrington,15
+123,2015,2,Bartlett,74
+124,2015,2,Bedford Park,76
+125,2015,2,Bellwood,261
+126,2015,2,Berkeley,38
+127,2015,2,Berwyn,363
+128,2015,2,Blue Island,1121
+129,2015,2,Bridgeview,30
+130,2015,2,Broadview,164
+131,2015,2,Brookfield,76
+132,2015,2,Buffalo Grove,25
+133,2015,2,Burbank,1904
+134,2015,2,Burlington,9
+135,2015,2,Burnham,602
+136,2015,2,Calumet City,923
+137,2015,2,Calumet Park,562
+138,2015,2,Chicago,104636
+139,2015,2,Chicago Heights,1094
+140,2015,2,Chicago Ridge,35
+141,2015,2,Cicero,907
+142,2015,2,Country Club Hills,58
+143,2015,2,Countryside,9
+144,2015,2,Crestwood,44
+145,2015,2,Deerfield,12
+146,2015,2,Des Plaines,882
+147,2015,2,Dolton,942
+148,2015,2,East Hazel Crest,17
+149,2015,2,Elgin,151
+150,2015,2,Elk Grove Village,107
+151,2015,2,Elmwood Park,271
+152,2015,2,Evanston,385
+153,2015,2,Evergreen Park,57
+154,2015,2,Flossmoor,33
+155,2015,2,Ford Heights,193
+156,2015,2,Forest Park,344
+157,2015,2,Forestview,22
+158,2015,2,Franklin Park,238
+159,2015,2,Glenview,495
+160,2015,2,Glenwood,305
+161,2015,2,Gurnee,14
+162,2015,2,Halstead,4
+163,2015,2,Hammond,1
+164,2015,2,Hanover Park,148
+165,2015,2,Harvey,850
+166,2015,2,Harwood Heights,15
+167,2015,2,Hazel Crest,112
+168,2015,2,Hickory Hills,74
+169,2015,2,Hillside,294
+170,2015,2,Hines,2
+171,2015,2,Hodgkins,65
+172,2015,2,Hoffman Estates,204
+173,2015,2,Hometown,18
+174,2015,2,Homewood,218
+175,2015,2,Inverness,4
+176,2015,2,Justice,29
+177,2015,2,Kenilworth,1
+178,2015,2,La Grange,13
+179,2015,2,La Grange Park,9
+180,2015,2,Lansing,1029
+181,2015,2,Lemont,278
+182,2015,2,Lincolnwood,99
+183,2015,2,Lynwood,59
+184,2015,2,Lyons,88
+185,2015,2,Markham,740
+186,2015,2,Matteson,820
+187,2015,2,Maywood,1231
+188,2015,2,Mc Cook,13
+189,2015,2,Melrose Park,508
+190,2015,2,Merrionett Pk,2
+191,2015,2,Midlothian,387
+192,2015,2,Monee,1
+193,2015,2,Morton Grove,20
+194,2015,2,Mount Prospect,1279
+195,2015,2,Mt Prospect,4
+196,2015,2,New Lenox,4
+197,2015,2,Niles,2081
+198,2015,2,Norridge,61
+199,2015,2,North Chicago,1
+200,2015,2,North Riverside,85
+201,2015,2,Northbrook,147
+202,2015,2,Northfield,1
+203,2015,2,Northlake,138
+204,2015,2,Oak Forest,56
+205,2015,2,Oak Lawn,278
+206,2015,2,Oak Park,187
+207,2015,2,Olympia Fields,49
+208,2015,2,Orland Hills,1
+209,2015,2,Orland Park,179
+210,2015,2,Palatine,597
+211,2015,2,Palos Heights,28
+212,2015,2,Palos Hills,62
+213,2015,2,Palos Park,10
+214,2015,2,Park Forest,456
+215,2015,2,Park Ridge,31
+216,2015,2,Phoenix,27
+217,2015,2,Posen,60
+218,2015,2,Prospect Heights,164
+219,2015,2,Richton Park,92
+220,2015,2,River Forest,112
+221,2015,2,River Grove,12
+222,2015,2,Riverdale,555
+223,2015,2,Riverside,69
+224,2015,2,Robbins,150
+225,2015,2,Rolling Meadows,152
+226,2015,2,Roselle,11
+227,2015,2,Rosemont,327
+228,2015,2,S Chicago Heights,17
+229,2015,2,Sauk Village,200
+230,2015,2,Schaumburg,133
+231,2015,2,Schiller Park,234
+232,2015,2,Skokie,433
+233,2015,2,South Barrington,29
+234,2015,2,South Chicago Heights,9
+235,2015,2,South Holland,2489
+236,2015,2,Steger,5
+237,2015,2,Stickney,11
+238,2015,2,Stone Park,90
+239,2015,2,Streamwood,470
+240,2015,2,Summit,137
+241,2015,2,Thornton,1
+242,2015,2,Tinley Park,475
+243,2015,2,University Park,5
+244,2015,2,Westchester,57
+245,2015,2,Western Sprgs,7
+246,2015,2,Western Springs,9
+247,2015,2,Wheeling,240
+248,2015,2,Willow Springs,33
+249,2015,2,Wilmette,39
+250,2015,2,Winnetka,9
+251,2015,2,Worth,20
+252,2015,3,Addison,1
+253,2015,3,Alsip,88
+254,2015,3,Arlington Heights,302
+255,2015,3,Barrington,4
+256,2015,3,Barrington Hills,1
+257,2015,3,Bartlett,59
+258,2015,3,Bedford Park,250
+259,2015,3,Bellwood,139
+260,2015,3,Berkeley,25
+261,2015,3,Berwyn,341
+262,2015,3,Blue Island,577
+263,2015,3,Bluff Springs,25
+264,2015,3,Bridgeview,41
+265,2015,3,Broadview,86
+266,2015,3,Brookfield,86
+267,2015,3,Buffalo Grove,33
+268,2015,3,Burbank,723
+269,2015,3,Burnham,93
+270,2015,3,Burr Ridge,1
+271,2015,3,Calumet City,1479
+272,2015,3,Calumet Park,353
+273,2015,3,Chicago,51297
+274,2015,3,Chicago Heights,608
+275,2015,3,Chicago Ridge,52
+276,2015,3,Cicero,737
+277,2015,3,Country Club Hills,1607
+278,2015,3,Countryside,9
+279,2015,3,Crestwood,85
+280,2015,3,Deerfield,100
+281,2015,3,Des Plaines,405
+282,2015,3,Dixmoor,16
+283,2015,3,Dolton,475
+284,2015,3,East Hazel Crest,2
+285,2015,3,Elgin,161
+286,2015,3,Elk Grove Village,70
+287,2015,3,Elmhurst,4
+288,2015,3,Elmwood Park,192
+289,2015,3,Evanston,271
+290,2015,3,Evergreen Park,91
+291,2015,3,Ewing,1
+292,2015,3,Flossmoor,375
+293,2015,3,Ford Heights,130
+294,2015,3,Forest Park,371
+295,2015,3,Franklin Park,154
+296,2015,3,Glencoe,20
+297,2015,3,Glenview,1134
+298,2015,3,Glenwood,390
+299,2015,3,Gurnee,35
+300,2015,3,Hanover Park,99
+301,2015,3,Harvey,1063
+302,2015,3,Harwood Heights,116
+303,2015,3,Hazel Crest,349
+304,2015,3,Hickory Hills,33
+305,2015,3,Hillside,81
+306,2015,3,Hines,1
+307,2015,3,Hodgkins,184
+308,2015,3,Hoffman Estates,371
+309,2015,3,Hometown,2
+310,2015,3,Homewood,1444
+311,2015,3,Ind Head Park,3
+312,2015,3,Indian Head Park,3
+313,2015,3,Inverness,14
+314,2015,3,Justice,24
+315,2015,3,La Grange,6
+316,2015,3,La Grange Park,121
+317,2015,3,Lansing,3041
+318,2015,3,Lemont,24
+319,2015,3,Lincolnwood,74
+320,2015,3,Lynwood,121
+321,2015,3,Lyons,13
+322,2015,3,Markham,1140
+323,2015,3,Matteson,1355
+324,2015,3,Maywood,514
+325,2015,3,Mc Cook,15
+326,2015,3,Melrose Park,749
+327,2015,3,Merrionett Pk,2
+328,2015,3,Merrionette Park,1
+329,2015,3,Midlothian,457
+330,2015,3,Morton Grove,126
+331,2015,3,Mount Prospect,442
+332,2015,3,Niles,3330
+333,2015,3,Norridge,47
+334,2015,3,North Riverside,46
+335,2015,3,Northbrook,1184
+336,2015,3,Northfield,1
+337,2015,3,Northlake,397
+338,2015,3,Oak Forest,46
+339,2015,3,Oak Lawn,235
+340,2015,3,Oak Park,142
+341,2015,3,Olympia Fields,27
+342,2015,3,Orland Hills,26
+343,2015,3,Orland Park,311
+344,2015,3,Palatine,142
+345,2015,3,Palos Heights,288
+346,2015,3,Palos Hills,14
+347,2015,3,Palos Park,14
+348,2015,3,Park Forest,269
+349,2015,3,Park Ridge,88
+350,2015,3,Phoenix,12
+351,2015,3,Pinckneyville,5
+352,2015,3,Posen,5
+353,2015,3,Prospect Heights,70
+354,2015,3,Prospect Hts,9
+355,2015,3,Richton Park,29
+356,2015,3,River Forest,390
+357,2015,3,River Grove,41
+358,2015,3,Riverdale,128
+359,2015,3,Riverside,41
+360,2015,3,Robbins,154
+361,2015,3,Rolling Meadows,50
+362,2015,3,Roselle,13
+363,2015,3,Rosemont,208
+364,2015,3,S Chicago Heights,8
+365,2015,3,Sauk Village,88
+366,2015,3,Schaumburg,247
+367,2015,3,Schiller Park,77
+368,2015,3,Skokie,422
+369,2015,3,South Barrington,33
+370,2015,3,South Holland,895
+371,2015,3,Steger,1
+372,2015,3,Stickney,56
+373,2015,3,Stone Park,2
+374,2015,3,Streamwood,508
+375,2015,3,Summit,1418
+376,2015,3,Thornton,2
+377,2015,3,Tinley Park,182
+378,2015,3,Westchester,94
+379,2015,3,Western Sprgs,28
+380,2015,3,Western Springs,60
+381,2015,3,Westmont,30
+382,2015,3,Wheeling,256
+383,2015,3,Willow Springs,11
+384,2015,3,Wilmette,43
+385,2015,3,Winnetka,92
+386,2015,3,Worth,29
+387,2015,4,Alsip,300
+388,2015,4,Arlington Heights,378
+389,2015,4,Arlington Hts,16
+390,2015,4,Barrington,17
+391,2015,4,Barrington Hills,10
+392,2015,4,Bartlett,51
+393,2015,4,Bedford Park,61
+394,2015,4,Bellwood,363
+395,2015,4,Berkeley,63
+396,2015,4,Berwyn,667
+397,2015,4,Blue Island,630
+398,2015,4,Bridgeview,128
+399,2015,4,Broadview,131
+400,2015,4,Brookfield,71
+401,2015,4,Buffalo Grove,103
+402,2015,4,Burbank,261
+403,2015,4,Burnham,466
+404,2015,4,Burr Ridge,28
+405,2015,4,Calumet City,1272
+406,2015,4,Calumet Park,373
+407,2015,4,Cary,1
+408,2015,4,Chicago,120246
+409,2015,4,Chicago Heights,1452
+410,2015,4,Chicago Hts,85
+411,2015,4,Chicago Ridge,87
+412,2015,4,Cicero,2343
+413,2015,4,Cntry Clb Hls,1
+414,2015,4,Country Club Hills,2580
+415,2015,4,Countryside,18
+416,2015,4,Crestwood,99
+417,2015,4,Deerfield,67
+418,2015,4,Des Plaines,675
+419,2015,4,Dixmoor,2
+420,2015,4,Dolton,701
+421,2015,4,East Hazel Crest,43
+422,2015,4,Elgin,231
+423,2015,4,Elk Grove Village,203
+424,2015,4,Elmhurst,1
+425,2015,4,Elmwood Park,207
+426,2015,4,Evanston,1012
+427,2015,4,Evergreen Park,201
+428,2015,4,Evergreen Pk,4
+429,2015,4,Fairbury,1
+430,2015,4,Florissant,1
+431,2015,4,Flossmoor,212
+432,2015,4,Ford Heights,133
+433,2015,4,Forest Park,387
+434,2015,4,Franklin Park,215
+435,2015,4,Glencoe,88
+436,2015,4,Glenview,176
+437,2015,4,Glenwood,134
+438,2015,4,Hammond,25
+439,2015,4,Hanover Park,326
+440,2015,4,Harvey,2322
+441,2015,4,Harwood Heights,243
+442,2015,4,Harwood Hts,2
+443,2015,4,Hazel Crest,134
+444,2015,4,Hickory Hills,210
+445,2015,4,Hillside,183
+446,2015,4,Hines,1
+447,2015,4,Hodgkins,140
+448,2015,4,Hoffman Est,6
+449,2015,4,Hoffman Estates,390
+450,2015,4,Hometown,19
+451,2015,4,Homewood,281
+452,2015,4,Justice,70
+453,2015,4,La Grange,26
+454,2015,4,La Grange Park,25
+455,2015,4,Lansing,404
+456,2015,4,Lemont,61
+457,2015,4,Lincolnwood,153
+458,2015,4,Lynwood,157
+459,2015,4,Lyons,68
+460,2015,4,Markham,789
+461,2015,4,Marseilles,4
+462,2015,4,Matteson,834
+463,2015,4,Maywood,580
+464,2015,4,Mc Cook,8
+465,2015,4,Melrose Park,657
+466,2015,4,Merrionett Pk,1
+467,2015,4,Merrionette Park,1
+468,2015,4,Midlothian,131
+469,2015,4,Morton Grove,70
+470,2015,4,Mount Prospect,317
+471,2015,4,Mt Prospect,6
+472,2015,4,N Riverside,4
+473,2015,4,Niles,348
+474,2015,4,Norridge,116
+475,2015,4,North Riverside,141
+476,2015,4,Northbrook,174
+477,2015,4,Northfield,6
+478,2015,4,Northlake,154
+479,2015,4,Oak Forest,124
+480,2015,4,Oak Lawn,346
+481,2015,4,Oak Park,467
+482,2015,4,Olympia Fields,22
+483,2015,4,Orland Hills,23
+484,2015,4,Orland Park,319
+485,2015,4,Palatine,713
+486,2015,4,Palos Heights,167
+487,2015,4,Palos Hills,174
+488,2015,4,Palos Park,13
+489,2015,4,Park Forest,320
+490,2015,4,Park Ridge,82
+491,2015,4,Phoenix,11
+492,2015,4,Pinckneyville,20
+493,2015,4,Posen,141
+494,2015,4,Prospect Heights,134
+495,2015,4,Richton Park,99
+496,2015,4,River Forest,227
+497,2015,4,River Grove,46
+498,2015,4,Riverdale,355
+499,2015,4,Riverside,258
+500,2015,4,Robbins,96
+501,2015,4,Rolling Mdws,1
+502,2015,4,Rolling Meadows,176
+503,2015,4,Roselle,19
+504,2015,4,Rosemont,407
+505,2015,4,S Barrington,1
+506,2015,4,S Chicago Heights,67
+507,2015,4,Sauk Village,393
+508,2015,4,Schaumburg,353
+509,2015,4,Schiller Park,519
+510,2015,4,Skokie,309
+511,2015,4,South Barrington,42
+512,2015,4,South Chicago Heights,20
+513,2015,4,South Holland,1959
+514,2015,4,Steger,117
+515,2015,4,Stickney,34
+516,2015,4,Stone Park,55
+517,2015,4,Streamwood,675
+518,2015,4,Summit,206
+519,2015,4,Thornton,8
+520,2015,4,Tinley Park,291
+521,2015,4,Waukegan,25
+522,2015,4,Westchester,69
+523,2015,4,Western Sprgs,15
+524,2015,4,Western Springs,46
+525,2015,4,Wheeling,485
+526,2015,4,Willow Springs,73
+527,2015,4,Wilmette,40
+528,2015,4,Winnetka,13
+529,2015,4,Worth,37
+530,2015,A,Algonquin,1
+531,2015,A,Alsip,9
+532,2015,A,Arlington Heights,15
+533,2015,A,Barrington,3
+534,2015,A,Bartlett,1
+535,2015,A,Bedford Park,13
+536,2015,A,Bellwood,32
+537,2015,A,Berkeley,2
+538,2015,A,Berwyn,41
+539,2015,A,Blue Island,8
+540,2015,A,Bridgeview,2
+541,2015,A,Broadview,6
+542,2015,A,Brookfield,1
+543,2015,A,Burbank,9
+544,2015,A,Burnham,3
+545,2015,A,Burr Ridge,2
+546,2015,A,Calumet City,25
+547,2015,A,Calumet Park,8
+548,2015,A,Chicago,1972
+549,2015,A,Chicago Heights,27
+550,2015,A,Chicago Ridge,12
+551,2015,A,Cicero,71
+552,2015,A,Country Club Hills,5
+553,2015,A,Crestwood,1
+554,2015,A,Des Plaines,34
+555,2015,A,Dixmoor,1
+556,2015,A,Dolton,31
+557,2015,A,East Hazel Crest,2
+558,2015,A,Elgin,9
+559,2015,A,Elk Grove Village,15
+560,2015,A,Elmwood Park,26
+561,2015,A,Evanston,11
+562,2015,A,Evergreen Park,14
+563,2015,A,Flossmoor,4
+564,2015,A,Ford Heights,6
+565,2015,A,Forest Park,60
+566,2015,A,Forestview,5
+567,2015,A,Franklin Park,10
+568,2015,A,Glencoe,1
+569,2015,A,Glenview,14
+570,2015,A,Glenwood,2
+571,2015,A,Hanover Park,10
+572,2015,A,Harvey,12
+573,2015,A,Harwood Heights,2
+574,2015,A,Hazel Crest,3
+575,2015,A,Hickory Hills,2
+576,2015,A,Hillside,11
+577,2015,A,Hinsdale,1
+578,2015,A,Hodgkins,11
+579,2015,A,Hoffman Estates,7
+580,2015,A,Hometown,7
+581,2015,A,Homewood,7
+582,2015,A,Justice,5
+583,2015,A,La Grange,3
+584,2015,A,Lansing,13
+585,2015,A,Lemont,33
+586,2015,A,Lincolnwood,8
+587,2015,A,Lynwood,5
+588,2015,A,Lyons,1
+589,2015,A,Markham,14
+590,2015,A,Matteson,17
+591,2015,A,Maywood,119
+592,2015,A,Mc Cook,3
+593,2015,A,Melrose Park,35
+594,2015,A,Midlothian,4
+595,2015,A,Morton Grove,11
+596,2015,A,Mount Prospect,13
+597,2015,A,N Riverside,2
+598,2015,A,Niles,6
+599,2015,A,Norridge,7
+600,2015,A,North Riverside,18
+601,2015,A,Northbrook,3
+602,2015,A,Northfield,1
+603,2015,A,Northlake,10
+604,2015,A,Oak Forest,8
+605,2015,A,Oak Lawn,39
+606,2015,A,Oak Park,47
+607,2015,A,Olympia Fields,2
+608,2015,A,Orland Hills,1
+609,2015,A,Orland Park,32
+610,2015,A,Palatine,14
+611,2015,A,Palos Heights,2
+612,2015,A,Palos Hills,1
+613,2015,A,Park Forest,12
+614,2015,A,Park Ridge,1
+615,2015,A,Posen,4
+616,2015,A,Prospect Heights,14
+617,2015,A,Richton Park,2
+618,2015,A,River Forest,23
+619,2015,A,Riverdale,3
+620,2015,A,Riverside,19
+621,2015,A,Rolling Mdws,1
+622,2015,A,Rolling Meadows,4
+623,2015,A,Rosemont,61
+624,2015,A,Sauk Village,22
+625,2015,A,Schaumburg,24
+626,2015,A,Schiller Park,11
+627,2015,A,Skokie,22
+628,2015,A,South Barrington,10
+629,2015,A,South Holland,2
+630,2015,A,Stickney,3
+631,2015,A,Streamwood,25
+632,2015,A,Summit,4
+633,2015,A,Tinley Park,19
+634,2015,A,Westchester,3
+635,2015,A,Wheeling,8
+636,2015,A,Wilmette,7
+637,2015,A,Winnetka,2
+638,2015,A,Worth,3
+639,2015,B,Berwyn,10
+640,2015,B,Calumet City,1
+641,2015,B,Chicago,47
+642,2015,B,Dolton,8
+643,2015,B,Elmwood Park,1
+644,2015,B,Evergreen Park,1
+645,2015,B,Glenview,1
+646,2015,B,Hanover Park,1
+647,2015,B,Justice,1
+648,2015,B,Lansing,2
+649,2015,B,Maywood,1
+650,2015,B,Midlothian,4
+651,2015,B,Oak Forest,2
+652,2015,B,Schaumburg,2
+653,2015,B,Westchester,1
+654,2015,C,Bridgeview,1
+655,2015,C,Chicago,83
+656,2015,C,Cicero,19
+657,2015,C,Glenview,1
+658,2015,C,Harwood Heights,10
+659,2015,C,Hodgkins,1
+660,2015,C,Homewood,1
+661,2015,C,Matteson,1
+662,2015,C,Maywood,3
+663,2015,C,Niles,3
+664,2015,C,Northlake,1
+665,2015,C,Skokie,2
+666,2015,M,Broadview,458
+667,2015,M,Calumet City,128
+668,2015,M,Chicago,41407
+669,2015,M,Des Plaines,28
+670,2015,M,Harvey,746
+671,2015,M,Hazel Crest,64
+672,2015,M,Maywood,2096
+673,2015,M,Palatine,4
+674,2015,M,River Forest,324
+675,2015,M,Rosemont,36
+676,2015,O,Chicago,1
+677,2015,P,Chicago,9
+678,2015,U,Chicago,5
+679,2015,X,Alsip,110
+680,2015,X,Arlington Heights,26
+681,2015,X,Bartlett,12
+682,2015,X,Bellwood,409
+683,2015,X,Berwyn,163
+684,2015,X,Blue Island,5219
+685,2015,X,Bolingbrook,1
+686,2015,X,Bridgeview,11
+687,2015,X,Broadview,477
+688,2015,X,Brookfield,4
+689,2015,X,Buffalo Grove,7
+690,2015,X,Burbank,831
+691,2015,X,Burnham,86
+692,2015,X,Calumet City,433
+693,2015,X,Calumet Park,1882
+694,2015,X,Canton,16
+695,2015,X,Chicago,67851
+696,2015,X,Chicago Heights,861
+697,2015,X,Chicago Ridge,8
+698,2015,X,Cicero,1142
+699,2015,X,Crestwood,27
+700,2015,X,Des Plaines,396
+701,2015,X,Dolton,909
+702,2015,X,Elgin,91
+703,2015,X,Elk Grove Village,10
+704,2015,X,Elmwood Park,52
+705,2015,X,Evanston,147
+706,2015,X,Evergreen Park,20
+707,2015,X,Flossmoor,1
+708,2015,X,Ford Heights,58
+709,2015,X,Forest Park,66
+710,2015,X,Franklin Park,3
+711,2015,X,Glenview,24
+712,2015,X,Glenwood,3
+713,2015,X,Halstead,4
+714,2015,X,Hanover Park,86
+715,2015,X,Harvey,1061
+716,2015,X,Harwood Heights,4
+717,2015,X,Hazel Crest,78
+718,2015,X,Hickory Hills,4
+719,2015,X,Hillside,12
+720,2015,X,Hoffman Estates,175
+721,2015,X,Homewood,666
+722,2015,X,Justice,8
+723,2015,X,La Grange Park,20
+724,2015,X,Lansing,119
+725,2015,X,Lemont,6
+726,2015,X,Lincolnwood,3
+727,2015,X,Lynwood,12
+728,2015,X,Lyons,4
+729,2015,X,Markham,1725
+730,2015,X,Matteson,375
+731,2015,X,Maywood,572
+732,2015,X,Melrose Park,495
+733,2015,X,Midlothian,409
+734,2015,X,Morton Grove,5
+735,2015,X,Mount Prospect,47
+736,2015,X,North Riverside,10
+737,2015,X,Northbrook,50
+738,2015,X,Northlake,32
+739,2015,X,Oak Forest,150
+740,2015,X,Oak Lawn,450
+741,2015,X,Oak Park,300
+742,2015,X,Orland Hills,6
+743,2015,X,Orland Park,117
+744,2015,X,Palatine,199
+745,2015,X,Palos Heights,318
+746,2015,X,Palos Hills,15
+747,2015,X,Park Forest,322
+748,2015,X,Park Ridge,8
+749,2015,X,Phoenix,18
+750,2015,X,Posen,4
+751,2015,X,Prospect Heights,50
+752,2015,X,Richton Park,76
+753,2015,X,River Forest,1749
+754,2015,X,River Grove,20
+755,2015,X,Riverdale,863
+756,2015,X,Riverside,15
+757,2015,X,Robbins,188
+758,2015,X,Rolling Meadows,312
+759,2015,X,Roselle,1
+760,2015,X,Rosemont,72
+761,2015,X,S Chicago Heights,8
+762,2015,X,Sauk Village,165
+763,2015,X,Schaumburg,127
+764,2015,X,Schiller Park,2
+765,2015,X,Skokie,260
+766,2015,X,South Holland,522
+767,2015,X,Stickney,14
+768,2015,X,Stone Park,9
+769,2015,X,Streamwood,567
+770,2015,X,Summit,54
+771,2015,X,Tinley Park,3
+772,2015,X,Westchester,18
+773,2015,X,Wheeling,26
+774,2015,X,Wilmette,2
+775,2015,Z,Chicago,4
+776,2015,Z,Homewood,6
+777,2016,1,Alsip,19
+778,2016,1,Arlington Heights,303
+779,2016,1,Bartlett,31
+780,2016,1,Bedford Park,9
+781,2016,1,Bellwood,138
+782,2016,1,Berkeley,118
+783,2016,1,Berwyn,2679
+784,2016,1,Blue Island,193
+785,2016,1,Bolingbrook,27
+786,2016,1,Bridgeview,67
+787,2016,1,Broadview,23
+788,2016,1,Brookfield,62
+789,2016,1,Burbank,36
+790,2016,1,Burnham,9
+791,2016,1,Burr Ridge,2
+792,2016,1,Calumet City,803
+793,2016,1,Calumet Park,83
+794,2016,1,Chicago,36178
+795,2016,1,Chicago Heights,174
+796,2016,1,Chicago Ridge,246
+797,2016,1,Cicero,534
+798,2016,1,Cntry Clb Hls,8
+799,2016,1,Country Club Hills,33
+800,2016,1,Countryside,11
+801,2016,1,Crestwood,115
+802,2016,1,Des Plaines,123
+803,2016,1,Dixmoor,8
+804,2016,1,Dolton,222
+805,2016,1,East Hazel Crest,2
+806,2016,1,Elgin,90
+807,2016,1,Elk Grove Village,34
+808,2016,1,Elmwood Park,16
+809,2016,1,Evanston,346
+810,2016,1,Evergreen Park,41
+811,2016,1,Flossmoor,24
+812,2016,1,Ford Heights,54
+813,2016,1,Forest Park,51
+814,2016,1,Forestview,1
+815,2016,1,Franklin Park,429
+816,2016,1,Glencoe,234
+817,2016,1,Glenview,166
+818,2016,1,Glenwood,53
+819,2016,1,Hanover Park,30
+820,2016,1,Harvey,707
+821,2016,1,Harwood Heights,37
+822,2016,1,Hazel Crest,82
+823,2016,1,Hickory Hills,12
+824,2016,1,Hillside,10
+825,2016,1,Hines,1
+826,2016,1,Hodgkins,18
+827,2016,1,Hoffman Est,15
+828,2016,1,Hoffman Estates,57
+829,2016,1,Homewood,137
+830,2016,1,Ind Head Park,6
+831,2016,1,Itasca,13
+832,2016,1,Justice,27
+833,2016,1,La Grange Park,7
+834,2016,1,Lansing,152
+835,2016,1,Lemont,15
+836,2016,1,Lincolnwood,6
+837,2016,1,Lynwood,32
+838,2016,1,Lyons,141
+839,2016,1,Markham,377
+840,2016,1,Matteson,233
+841,2016,1,Maywood,127
+842,2016,1,Melrose Park,396
+843,2016,1,Midlothian,42
+844,2016,1,Monee,2
+845,2016,1,Morton Grove,48
+846,2016,1,Mount Prospect,162
+847,2016,1,Mt Prospect,29
+848,2016,1,Niles,60
+849,2016,1,Norridge,103
+850,2016,1,North Riverside,4
+851,2016,1,Northbrook,2
+852,2016,1,Northlake,45
+853,2016,1,Oak Forest,90
+854,2016,1,Oak Lawn,219
+855,2016,1,Oak Park,89
+856,2016,1,Orland Hills,6
+857,2016,1,Orland Park,48
+858,2016,1,Palatine,39
+859,2016,1,Palos Heights,10
+860,2016,1,Palos Hills,2
+861,2016,1,Palos Park,150
+862,2016,1,Park Forest,5544
+863,2016,1,Park Ridge,52
+864,2016,1,Phoenix,2
+865,2016,1,Posen,9
+866,2016,1,Prospect Heights,17
+867,2016,1,Richton Park,171
+868,2016,1,River Forest,49
+869,2016,1,Riverdale,719
+870,2016,1,Riverside,2
+871,2016,1,Robbins,17
+872,2016,1,Rolling Mdws,20
+873,2016,1,Rolling Meadows,96
+874,2016,1,Rosemont,21
+875,2016,1,S Chicago Heights,24
+876,2016,1,Sauk Village,55
+877,2016,1,Schaumburg,16
+878,2016,1,Schiller Park,88
+879,2016,1,Skokie,144
+880,2016,1,South Barrington,9
+881,2016,1,South Chicago Heights,8
+882,2016,1,South Holland,830
+883,2016,1,Steger,4
+884,2016,1,Stickney,2
+885,2016,1,Stone Park,28
+886,2016,1,Streamwood,122
+887,2016,1,Summit,3
+888,2016,1,Thornton,3
+889,2016,1,Tinley Park,71
+890,2016,1,Westchester,17
+891,2016,1,Western Springs,2
+892,2016,1,Wheeling,69
+893,2016,1,Willow Springs,5
+894,2016,1,Wilmette,34
+895,2016,1,Winnetka,30
+896,2016,1,Worth,7
+897,2016,2,Alsip,115
+898,2016,2,Arlington Heights,1185
+899,2016,2,Barrington,6
+900,2016,2,Bartlett,178
+901,2016,2,Bedford Park,22
+902,2016,2,Bellwood,283
+903,2016,2,Berkeley,301
+904,2016,2,Berwyn,1875
+905,2016,2,Blue Island,1005
+906,2016,2,Bolingbrook,54
+907,2016,2,Boulder Creek,1
+908,2016,2,Bridgeview,229
+909,2016,2,Broadview,122
+910,2016,2,Brookfield,238
+911,2016,2,Buffalo Grove,54
+912,2016,2,Burbank,1787
+913,2016,2,Burnham,74
+914,2016,2,Burr Ridge,28
+915,2016,2,Calumet City,1109
+916,2016,2,Calumet Park,245
+917,2016,2,Chicago,108682
+918,2016,2,Chicago Heights,770
+919,2016,2,Chicago Ridge,42
+920,2016,2,Cicero,1593
+921,2016,2,Cntry Clb Hls,8
+922,2016,2,Country Club Hills,103
+923,2016,2,Countryside,60
+924,2016,2,Crest Hill,3
+925,2016,2,Crestwood,305
+926,2016,2,Deerfield,1
+927,2016,2,Des Plaines,3294
+928,2016,2,Dixmoor,24
+929,2016,2,Dolton,629
+930,2016,2,East Hazel Crest,1
+931,2016,2,Elgin,139
+932,2016,2,Elk Grove Village,77
+933,2016,2,Elkhart,3
+934,2016,2,Elmwood Park,1625
+935,2016,2,Evanston,1521
+936,2016,2,Evergreen Park,168
+937,2016,2,Flossmoor,32
+938,2016,2,Ford Heights,158
+939,2016,2,Forest Park,869
+940,2016,2,Forestview,27
+941,2016,2,Franklin Park,221
+942,2016,2,Glencoe,567
+943,2016,2,Glenview,473
+944,2016,2,Glenwood,145
+945,2016,2,Hanover Park,94
+946,2016,2,Harvey,767
+947,2016,2,Harwood Heights,137
+948,2016,2,Hazel Crest,130
+949,2016,2,Hickory Hills,59
+950,2016,2,Highwood,3
+951,2016,2,Hillside,62
+952,2016,2,Hines,27
+953,2016,2,Hodgkins,36
+954,2016,2,Hoffman Est,16
+955,2016,2,Hoffman Estates,172
+956,2016,2,Hometown,5
+957,2016,2,Homewood,1128
+958,2016,2,Jefferson Park,48
+959,2016,2,Justice,29
+960,2016,2,Kenilworth,9
+961,2016,2,La Grange,27
+962,2016,2,La Grange Park,23
+963,2016,2,Lansing,172
+964,2016,2,Lemont,542
+965,2016,2,Lincolnwood,5
+966,2016,2,Lombard,35
+967,2016,2,Lynwood,667
+968,2016,2,Lyons,315
+969,2016,2,Markham,511
+970,2016,2,Matteson,1606
+971,2016,2,Maywood,382
+972,2016,2,Melrose Park,666
+973,2016,2,Midlothian,71
+974,2016,2,Monee,2
+975,2016,2,Morton Grove,87
+976,2016,2,Mount Prospect,313
+977,2016,2,Mt Prospect,4
+978,2016,2,Niles,1077
+979,2016,2,Norridge,247
+980,2016,2,North Riverside,19
+981,2016,2,Northbrook,220
+982,2016,2,Northfield,16
+983,2016,2,Northlake,170
+984,2016,2,Oak Forest,168
+985,2016,2,Oak Lawn,288
+986,2016,2,Oak Park,440
+987,2016,2,Olympia Fields,9
+988,2016,2,Orland Hills,1
+989,2016,2,Orland Park,264
+990,2016,2,Palatine,329
+991,2016,2,Palos Heights,17
+992,2016,2,Palos Hills,2
+993,2016,2,Palos Park,153
+994,2016,2,Park Forest,1905
+995,2016,2,Park Ridge,105
+996,2016,2,Phoenix,40
+997,2016,2,Prospect Heights,115
+998,2016,2,Richton Park,205
+999,2016,2,River Forest,127
+1000,2016,2,River Grove,25
+1001,2016,2,Riverdale,408
+1002,2016,2,Riverside,36
+1003,2016,2,Robbins,42
+1004,2016,2,Rolling Mdws,17
+1005,2016,2,Rolling Meadows,500
+1006,2016,2,Roselle,13
+1007,2016,2,Rosemont,149
+1008,2016,2,S Barrington,1
+1009,2016,2,S Chicago Heights,23
+1010,2016,2,S Chicago Hts,4
+1011,2016,2,Sauk Village,170
+1012,2016,2,Schaumburg,292
+1013,2016,2,Schiller Park,333
+1014,2016,2,Skokie,1024
+1015,2016,2,South Barrington,20
+1016,2016,2,South Chicago Heights,133
+1017,2016,2,South Holland,477
+1018,2016,2,Steger,5
+1019,2016,2,Stickney,33
+1020,2016,2,Stone Park,30
+1021,2016,2,Streamwood,237
+1022,2016,2,Summit,117
+1023,2016,2,Thornton,22
+1024,2016,2,Tinley Park,513
+1025,2016,2,University Park,5
+1026,2016,2,Westchester,43
+1027,2016,2,Western Sprgs,1
+1028,2016,2,Western Springs,5
+1029,2016,2,Wheeling,625
+1030,2016,2,Willow Springs,56
+1031,2016,2,Willowbrook,16
+1032,2016,2,Wilmette,49
+1033,2016,2,Winnetka,62
+1034,2016,2,Worth,379
+1035,2016,3,Alsip,63
+1036,2016,3,Arlington Heights,1480
+1037,2016,3,Arlington Hts,4
+1038,2016,3,Barrington,1
+1039,2016,3,Bartlett,127
+1040,2016,3,Bedford Park,66
+1041,2016,3,Bellwood,287
+1042,2016,3,Berkeley,45
+1043,2016,3,Berwyn,693
+1044,2016,3,Blue Island,417
+1045,2016,3,Bolingbrook,540
+1046,2016,3,Bridgeview,216
+1047,2016,3,Broadview,57
+1048,2016,3,Brookfield,63
+1049,2016,3,Buffalo Grove,71
+1050,2016,3,Burbank,412
+1051,2016,3,Burnham,18
+1052,2016,3,Calumet City,1286
+1053,2016,3,Calumet Park,107
+1054,2016,3,Chicago,44008
+1055,2016,3,Chicago Heights,655
+1056,2016,3,Chicago Ridge,80
+1057,2016,3,Cicero,481
+1058,2016,3,Cntry Clb Hls,16
+1059,2016,3,Country Club Hills,132
+1060,2016,3,Countryside,48
+1061,2016,3,Crestwood,91
+1062,2016,3,Deerfield,26
+1063,2016,3,Des Plaines,333
+1064,2016,3,Dixmoor,7
+1065,2016,3,Dolton,350
+1066,2016,3,East Hazel Crest,14
+1067,2016,3,Elgin,120
+1068,2016,3,Elk Grove Village,158
+1069,2016,3,Elmhurst,4
+1070,2016,3,Elmwood Park,180
+1071,2016,3,Evanston,2793
+1072,2016,3,Evergreen Park,905
+1073,2016,3,Evergreen Pk,1
+1074,2016,3,Flossmoor,82
+1075,2016,3,Ford Heights,109
+1076,2016,3,Forest Park,482
+1077,2016,3,Forestview,4
+1078,2016,3,Frankfort,25
+1079,2016,3,Franklin Park,171
+1080,2016,3,Glencoe,512
+1081,2016,3,Glenview,693
+1082,2016,3,Glenwood,769
+1083,2016,3,Hammond,16
+1084,2016,3,Hanover Park,286
+1085,2016,3,Harvey,409
+1086,2016,3,Harwood Heights,159
+1087,2016,3,Hazel Crest,73
+1088,2016,3,Hickory Hills,77
+1089,2016,3,Highwood,3
+1090,2016,3,Hillside,55
+1091,2016,3,Hines,13
+1092,2016,3,Hodgkins,33
+1093,2016,3,Hoffman Est,114
+1094,2016,3,Hoffman Estates,130
+1095,2016,3,Hometown,4
+1096,2016,3,Homewood,1931
+1097,2016,3,Ind Head Park,3
+1098,2016,3,Indian Head Park,3
+1099,2016,3,Itasca,180
+1100,2016,3,Justice,20
+1101,2016,3,La Grange,3
+1102,2016,3,La Grange Park,18
+1103,2016,3,La Grange Pk,1
+1104,2016,3,Lansing,1074
+1105,2016,3,Lemont,87
+1106,2016,3,Lincolnwood,16
+1107,2016,3,Lombard,7
+1108,2016,3,Lynwood,460
+1109,2016,3,Lyons,52
+1110,2016,3,Markham,102
+1111,2016,3,Matteson,810
+1112,2016,3,Maywood,311
+1113,2016,3,Melrose Park,507
+1114,2016,3,Merrionette Park,3
+1115,2016,3,Midlothian,649
+1116,2016,3,Morton Grove,768
+1117,2016,3,Mount Prospect,905
+1118,2016,3,Mt Prospect,816
+1119,2016,3,N Riverside,2
+1120,2016,3,Niles,620
+1121,2016,3,Norridge,2037
+1122,2016,3,North Riverside,99
+1123,2016,3,Northbrook,442
+1124,2016,3,Northfield,41
+1125,2016,3,Northlake,192
+1126,2016,3,Oak Forest,66
+1127,2016,3,Oak Lawn,536
+1128,2016,3,Oak Park,386
+1129,2016,3,Olympia Fields,17
+1130,2016,3,Orland Hills,5
+1131,2016,3,Orland Park,413
+1132,2016,3,Palatine,1257
+1133,2016,3,Palos Heights,48
+1134,2016,3,Palos Hills,7
+1135,2016,3,Palos Park,313
+1136,2016,3,Park Forest,2083
+1137,2016,3,Park Ridge,237
+1138,2016,3,Phoenix,1
+1139,2016,3,Pontiac,1
+1140,2016,3,Posen,12
+1141,2016,3,Prospect Heights,443
+1142,2016,3,Richton Park,1604
+1143,2016,3,River Forest,158
+1144,2016,3,River Grove,16
+1145,2016,3,Riverdale,748
+1146,2016,3,Riverside,34
+1147,2016,3,Robbins,22
+1148,2016,3,Rolling Mdws,111
+1149,2016,3,Rolling Meadows,53
+1150,2016,3,Roselle,1
+1151,2016,3,Rosemont,134
+1152,2016,3,S Chicago Heights,80
+1153,2016,3,S Chicago Hts,12
+1154,2016,3,Sauk Village,114
+1155,2016,3,Savanna,1
+1156,2016,3,Schaumburg,874
+1157,2016,3,Schiller Park,143
+1158,2016,3,Skokie,1308
+1159,2016,3,South Barrington,68
+1160,2016,3,South Chicago Heights,8
+1161,2016,3,South Holland,767
+1162,2016,3,Springfield,1
+1163,2016,3,Steger,14
+1164,2016,3,Stickney,18
+1165,2016,3,Stone Park,76
+1166,2016,3,Streamwood,630
+1167,2016,3,Summit,50
+1168,2016,3,Tinley Park,2130
+1169,2016,3,University Park,5
+1170,2016,3,Westchester,42
+1171,2016,3,Western Sprgs,4
+1172,2016,3,Western Springs,16
+1173,2016,3,Wheaton,1
+1174,2016,3,Wheeling,181
+1175,2016,3,Willow Springs,4
+1176,2016,3,Wilmette,109
+1177,2016,3,Winnetka,162
+1178,2016,3,Worth,59
+1179,2016,4,Alsip,165
+1180,2016,4,Arlington Heights,1869
+1181,2016,4,Arlington Hts,2
+1182,2016,4,Barrington,2
+1183,2016,4,Barrington Hills,2
+1184,2016,4,Bartlett,185
+1185,2016,4,Bedford Park,177
+1186,2016,4,Bellwood,253
+1187,2016,4,Berkeley,609
+1188,2016,4,Berwyn,888
+1189,2016,4,Blue Island,668
+1190,2016,4,Bolingbrook,108
+1191,2016,4,Bourbonnais,1
+1192,2016,4,Bridgeview,134
+1193,2016,4,Brimfield,2
+1194,2016,4,Broadview,186
+1195,2016,4,Brookfield,255
+1196,2016,4,Buffalo Grove,156
+1197,2016,4,Burbank,98
+1198,2016,4,Burnham,53
+1199,2016,4,Burr Ridge,6
+1200,2016,4,Calumet City,674
+1201,2016,4,Calumet Park,399
+1202,2016,4,Chicago,135646
+1203,2016,4,Chicago Heights,1561
+1204,2016,4,Chicago Hts,37
+1205,2016,4,Chicago Ridge,267
+1206,2016,4,Cicero,2129
+1207,2016,4,Country Club Hills,122
+1208,2016,4,Countryside,129
+1209,2016,4,Crest Hill,6
+1210,2016,4,Crestwood,43
+1211,2016,4,Deerfield,59
+1212,2016,4,Des Plaines,1182
+1213,2016,4,Dixmoor,13
+1214,2016,4,Dolton,636
+1215,2016,4,East Hazel Crest,147
+1216,2016,4,Elgin,324
+1217,2016,4,Elk Grove Village,200
+1218,2016,4,Elk Grove Vlg,2
+1219,2016,4,Elmhurst,5
+1220,2016,4,Elmwood Park,326
+1221,2016,4,Evanston,783
+1222,2016,4,Evergreen Park,276
+1223,2016,4,Flossmoor,79
+1224,2016,4,Ford Heights,202
+1225,2016,4,Forest Park,3107
+1226,2016,4,Forestview,38
+1227,2016,4,Franklin Park,461
+1228,2016,4,Glencoe,353
+1229,2016,4,Glenview,343
+1230,2016,4,Glenwood,365
+1231,2016,4,Hammond,52
+1232,2016,4,Hanover Park,474
+1233,2016,4,Harvey,833
+1234,2016,4,Harwood Heights,94
+1235,2016,4,Hazel Crest,179
+1236,2016,4,Hickory Hills,107
+1237,2016,4,Hillside,283
+1238,2016,4,Hines,11
+1239,2016,4,Hinsdale,2
+1240,2016,4,Hodgkins,137
+1241,2016,4,Hoffman Est,70
+1242,2016,4,Hoffman Estates,402
+1243,2016,4,Hometown,13
+1244,2016,4,Homewood,1285
+1245,2016,4,Indian Head Park,7
+1246,2016,4,Itasca,12
+1247,2016,4,Jefferson Park,16
+1248,2016,4,Justice,94
+1249,2016,4,Kenilworth,2
+1250,2016,4,La Grange,24
+1251,2016,4,La Grange Highlands,1
+1252,2016,4,La Grange Park,14
+1253,2016,4,Lansing,724
+1254,2016,4,Lemont,135
+1255,2016,4,Lincolnwood,79
+1256,2016,4,Lombard,7
+1257,2016,4,Lynwood,187
+1258,2016,4,Lyons,64
+1259,2016,4,Markham,514
+1260,2016,4,Matteson,1404
+1261,2016,4,Maywood,818
+1262,2016,4,Mc Cook,5
+1263,2016,4,Melrose Park,1488
+1264,2016,4,Merrionett Pk,1
+1265,2016,4,Merrionette Park,7
+1266,2016,4,Midlothian,392
+1267,2016,4,Morton Grove,140
+1268,2016,4,Mount Prospect,474
+1269,2016,4,Mt Prospect,4
+1270,2016,4,N Riverside,4
+1271,2016,4,Naperville,1
+1272,2016,4,Niles,469
+1273,2016,4,Norridge,485
+1274,2016,4,North Riverside,169
+1275,2016,4,Northbrook,412
+1276,2016,4,Northfield,10
+1277,2016,4,Northlake,112
+1278,2016,4,Oak Forest,156
+1279,2016,4,Oak Lawn,337
+1280,2016,4,Oak Park,521
+1281,2016,4,Olympia Fields,8
+1282,2016,4,Orland Hills,10
+1283,2016,4,Orland Park,242
+1284,2016,4,Palatine,1183
+1285,2016,4,Palos Heights,20
+1286,2016,4,Palos Hills,90
+1287,2016,4,Palos Park,185
+1288,2016,4,Park Forest,1148
+1289,2016,4,Park Ridge,97
+1290,2016,4,Phoenix,13
+1291,2016,4,Posen,161
+1292,2016,4,Prospect Heights,194
+1293,2016,4,Richton Park,127
+1294,2016,4,River Forest,127
+1295,2016,4,River Grove,348
+1296,2016,4,Riverdale,645
+1297,2016,4,Riverside,108
+1298,2016,4,Robbins,295
+1299,2016,4,Rolling Mdws,39
+1300,2016,4,Rolling Meadows,160
+1301,2016,4,Roselle,18
+1302,2016,4,Rosemont,339
+1303,2016,4,S Barrington,2
+1304,2016,4,S Chicago Heights,35
+1305,2016,4,Sauk Village,305
+1306,2016,4,Schaumburg,566
+1307,2016,4,Schiller Park,424
+1308,2016,4,Sheridan,1
+1309,2016,4,Skokie,992
+1310,2016,4,South Barrington,50
+1311,2016,4,South Chicago Heights,22
+1312,2016,4,South Holland,811
+1313,2016,4,Steger,1869
+1314,2016,4,Stickney,50
+1315,2016,4,Stone Park,172
+1316,2016,4,Streamwood,650
+1317,2016,4,Summit,142
+1318,2016,4,Thornton,9
+1319,2016,4,Tinley Park,1406
+1320,2016,4,University Park,15
+1321,2016,4,Westchester,26
+1322,2016,4,Western Sprgs,1
+1323,2016,4,Western Springs,16
+1324,2016,4,Wheaton,1
+1325,2016,4,Wheeling,583
+1326,2016,4,Willow Springs,20
+1327,2016,4,Wilmette,230
+1328,2016,4,Winnetka,181
+1329,2016,4,Worth,61
+1330,2016,A,Alsip,10
+1331,2016,A,Arlington Heights,27
+1332,2016,A,Barrington,1
+1333,2016,A,Bartlett,9
+1334,2016,A,Bedford Park,6
+1335,2016,A,Bellwood,24
+1336,2016,A,Berkeley,1
+1337,2016,A,Berwyn,72
+1338,2016,A,Blue Island,40
+1339,2016,A,Bridgeview,3
+1340,2016,A,Broadview,9
+1341,2016,A,Brookfield,10
+1342,2016,A,Buffalo Grove,5
+1343,2016,A,Burbank,10
+1344,2016,A,Burnham,8
+1345,2016,A,Calumet City,20
+1346,2016,A,Calumet Park,8
+1347,2016,A,Chicago,2439
+1348,2016,A,Chicago Heights,36
+1349,2016,A,Chicago Hts,1
+1350,2016,A,Chicago Ridge,3
+1351,2016,A,Cicero,144
+1352,2016,A,Country Club Hills,5
+1353,2016,A,Countryside,2
+1354,2016,A,Crestwood,10
+1355,2016,A,Deerfield,2
+1356,2016,A,Des Plaines,55
+1357,2016,A,Dixmoor,3
+1358,2016,A,Dolton,17
+1359,2016,A,East Hazel Crest,10
+1360,2016,A,Elgin,32
+1361,2016,A,Elk Grove Village,38
+1362,2016,A,Elkhart,6
+1363,2016,A,Elmwood Park,5
+1364,2016,A,Evanston,92
+1365,2016,A,Evergreen Park,13
+1366,2016,A,Flossmoor,8
+1367,2016,A,Ford Heights,14
+1368,2016,A,Forest Park,24
+1369,2016,A,Forestview,2
+1370,2016,A,Franklin Park,33
+1371,2016,A,Glendale Heights,1
+1372,2016,A,Glenview,25
+1373,2016,A,Hanover Park,14
+1374,2016,A,Harvey,34
+1375,2016,A,Harwood Heights,60
+1376,2016,A,Hazel Crest,3
+1377,2016,A,Hickory Hills,2
+1378,2016,A,Highwood,3
+1379,2016,A,Hillside,11
+1380,2016,A,Hines,1
+1381,2016,A,Hoffman Estates,14
+1382,2016,A,Homewood,34
+1383,2016,A,Justice,15
+1384,2016,A,La Grange,1
+1385,2016,A,La Grange Park,1
+1386,2016,A,Lansing,43
+1387,2016,A,Lemont,12
+1388,2016,A,Lincolnwood,7
+1389,2016,A,Lynwood,7
+1390,2016,A,Lyons,1
+1391,2016,A,Markham,19
+1392,2016,A,Matteson,29
+1393,2016,A,Maywood,23
+1394,2016,A,Melrose Park,33
+1395,2016,A,Midlothian,2
+1396,2016,A,Morton Grove,4
+1397,2016,A,Mount Prospect,26
+1398,2016,A,N Riverside,4
+1399,2016,A,Niles,27
+1400,2016,A,Norridge,10
+1401,2016,A,North Riverside,20
+1402,2016,A,Northbrook,8
+1403,2016,A,Northfield,3
+1404,2016,A,Northlake,16
+1405,2016,A,Oak Forest,5
+1406,2016,A,Oak Lawn,23
+1407,2016,A,Oak Park,22
+1408,2016,A,Orland Park,32
+1409,2016,A,Palatine,129
+1410,2016,A,Palos Heights,1
+1411,2016,A,Palos Hills,2
+1412,2016,A,Park Forest,16
+1413,2016,A,Park Ridge,6
+1414,2016,A,Posen,3
+1415,2016,A,Prospect Heights,7
+1416,2016,A,Richton Park,3
+1417,2016,A,River Forest,21
+1418,2016,A,River Grove,5
+1419,2016,A,Riverdale,4
+1420,2016,A,Riverside,5
+1421,2016,A,Robbins,2
+1422,2016,A,Rolling Mdws,4
+1423,2016,A,Rolling Meadows,3
+1424,2016,A,Roselle,3
+1425,2016,A,Rosemont,65
+1426,2016,A,Sauk Village,3
+1427,2016,A,Schaumburg,43
+1428,2016,A,Schiller Park,14
+1429,2016,A,Skokie,41
+1430,2016,A,South Barrington,2
+1431,2016,A,South Holland,6
+1432,2016,A,Stickney,2
+1433,2016,A,Stone Park,6
+1434,2016,A,Streamwood,29
+1435,2016,A,Summit,18
+1436,2016,A,Tinley Park,15
+1437,2016,A,Westchester,6
+1438,2016,A,Western Springs,3
+1439,2016,A,Wheeling,19
+1440,2016,A,Wilmette,22
+1441,2016,A,Winnetka,1
+1442,2016,A,Worth,7
+1443,2016,B,Calumet City,2
+1444,2016,B,Calumet Park,1
+1445,2016,B,Chicago,69
+1446,2016,B,Chicago Ridge,1
+1447,2016,B,Cicero,1
+1448,2016,B,Elk Grove Village,1
+1449,2016,B,Forest Park,1
+1450,2016,B,Hometown,1
+1451,2016,B,Maywood,2
+1452,2016,B,Norridge,1
+1453,2016,B,Oak Lawn,2
+1454,2016,B,Oak Park,10
+1455,2016,B,Palatine,23
+1456,2016,B,Riverdale,4
+1457,2016,B,Skokie,1
+1458,2016,B,Streamwood,1
+1459,2016,B,Summit,1
+1460,2016,B,Wheeling,1
+1461,2016,C,Alsip,1
+1462,2016,C,Bridgeview,1
+1463,2016,C,Brookfield,1
+1464,2016,C,Burbank,1
+1465,2016,C,Chicago,122
+1466,2016,C,Cicero,4
+1467,2016,C,Crestwood,1
+1468,2016,C,Dolton,2
+1469,2016,C,Elk Grove Village,1
+1470,2016,C,Forest Park,2
+1471,2016,C,Franklin Park,1
+1472,2016,C,Lake Barrington,1
+1473,2016,C,Maywood,4
+1474,2016,C,Mount Prospect,2
+1475,2016,C,Niles,2
+1476,2016,C,Norridge,1
+1477,2016,C,Orland Park,1
+1478,2016,C,Prospect Heights,1
+1479,2016,C,River Forest,1
+1480,2016,C,Riverside,4
+1481,2016,C,Rosemont,1
+1482,2016,M,Chicago,148484
+1483,2016,M,Chicago Heights,560
+1484,2016,M,Cicero,336
+1485,2016,M,Des Plaines,9
+1486,2016,M,Dolton,12
+1487,2016,M,Ford Heights,15
+1488,2016,M,Harvey,4080
+1489,2016,M,Justice,24
+1490,2016,M,Markham,4032
+1491,2016,M,Maywood,49
+1492,2016,M,Melrose Park,112
+1493,2016,M,Morton Grove,30
+1494,2016,M,Orland Park,2
+1495,2016,M,Palatine,624
+1496,2016,M,Palos Park,4074
+1497,2016,M,Park Ridge,2
+1498,2016,M,River Grove,70
+1499,2016,M,Riverdale,64
+1500,2016,M,Rosemont,90
+1501,2016,M,Sauk Village,148
+1502,2016,M,Schaumburg,2
+1503,2016,M,South Holland,930
+1504,2016,M,Westchester,36
+1505,2016,P,Burbank,2
+1506,2016,P,Calumet City,2
+1507,2016,P,Chicago,4
+1508,2016,X,Alsip,38
+1509,2016,X,Arlington Heights,127
+1510,2016,X,Bartlett,22
+1511,2016,X,Bedford Park,21
+1512,2016,X,Bellwood,122
+1513,2016,X,Berkeley,98
+1514,2016,X,Berwyn,5477
+1515,2016,X,Blue Island,429
+1516,2016,X,Bridgeview,105
+1517,2016,X,Broadview,5
+1518,2016,X,Brookfield,19
+1519,2016,X,Buffalo Grove,3
+1520,2016,X,Burbank,825
+1521,2016,X,Burnham,11
+1522,2016,X,Calumet City,220
+1523,2016,X,Calumet Park,138
+1524,2016,X,Chicago,97055
+1525,2016,X,Chicago Heights,1725
+1526,2016,X,Chicago Ridge,54
+1527,2016,X,Cicero,455
+1528,2016,X,Country Club Hills,164
+1529,2016,X,Countryside,34
+1530,2016,X,Crestwood,120
+1531,2016,X,Des Plaines,2116
+1532,2016,X,Dolton,302
+1533,2016,X,East Hazel Crest,2
+1534,2016,X,Elgin,104
+1535,2016,X,Elk Grove Village,31
+1536,2016,X,Elmwood Park,551
+1537,2016,X,Evanston,179
+1538,2016,X,Evergreen Park,104
+1539,2016,X,Ford Heights,78
+1540,2016,X,Forest Park,32
+1541,2016,X,Franklin Park,529
+1542,2016,X,Glencoe,69
+1543,2016,X,Glenview,99
+1544,2016,X,Hanover Park,68
+1545,2016,X,Harvey,1641
+1546,2016,X,Harwood Heights,82
+1547,2016,X,Hazel Crest,127
+1548,2016,X,Hickory Hills,53
+1549,2016,X,Hillside,23
+1550,2016,X,Hodgkins,139
+1551,2016,X,Hoffman Estates,68
+1552,2016,X,Hometown,2
+1553,2016,X,Homewood,54
+1554,2016,X,Justice,12
+1555,2016,X,La Grange Park,21
+1556,2016,X,Lansing,157
+1557,2016,X,Lynwood,276
+1558,2016,X,Lyons,15
+1559,2016,X,Markham,1223
+1560,2016,X,Matteson,233
+1561,2016,X,Maywood,165
+1562,2016,X,Melrose Park,992
+1563,2016,X,Midlothian,209
+1564,2016,X,Morton Grove,8
+1565,2016,X,Mount Prospect,137
+1566,2016,X,Niles,190
+1567,2016,X,Norridge,664
+1568,2016,X,Northbrook,18
+1569,2016,X,Northlake,25
+1570,2016,X,Oak Forest,109
+1571,2016,X,Oak Lawn,1388
+1572,2016,X,Oak Park,119
+1573,2016,X,Orland Hills,12
+1574,2016,X,Orland Park,121
+1575,2016,X,Palatine,91
+1576,2016,X,Palos Park,825
+1577,2016,X,Park Forest,35143
+1578,2016,X,Park Ridge,11
+1579,2016,X,Phoenix,2
+1580,2016,X,Posen,4
+1581,2016,X,Prospect Heights,11
+1582,2016,X,Richton Park,20
+1583,2016,X,River Forest,7
+1584,2016,X,Riverdale,603
+1585,2016,X,Riverside,6
+1586,2016,X,Robbins,19
+1587,2016,X,Rolling Meadows,578
+1588,2016,X,Rosemont,124
+1589,2016,X,S Chicago Heights,112
+1590,2016,X,Sauk Village,97
+1591,2016,X,Schaumburg,20
+1592,2016,X,Schiller Park,87
+1593,2016,X,Skokie,294
+1594,2016,X,South Chicago Heights,64
+1595,2016,X,South Holland,1041
+1596,2016,X,Steger,3
+1597,2016,X,Stone Park,6
+1598,2016,X,Streamwood,148
+1599,2016,X,Summit,23
+1600,2016,X,Thornton,6
+1601,2016,X,Tinley Park,26
+1602,2016,X,Westchester,7
+1603,2016,X,Wheeling,327
+1604,2016,X,Willow Springs,4
+1605,2016,X,Wilmette,55
+1606,2016,X,Worth,63
+1607,2016,Z,Chicago,1
+1608,2016,Z,Sauk Village,2
+1609,2017,1,Alsip,390
+1610,2017,1,Arlington Heights,315
+1611,2017,1,Arlington Hts,6
+1612,2017,1,Barrington,4
+1613,2017,1,Bartlett,9
+1614,2017,1,Beecher,13
+1615,2017,1,Bellwood,23
+1616,2017,1,Berkeley,20
+1617,2017,1,Berwyn,263
+1618,2017,1,Blue Island,377
+1619,2017,1,Bridgeview,66
+1620,2017,1,Broadview,121
+1621,2017,1,Brookfield,83
+1622,2017,1,Buffalo Grove,35
+1623,2017,1,Burbank,22
+1624,2017,1,Burnham,1
+1625,2017,1,Burr Ridge,1
+1626,2017,1,Calumet City,290
+1627,2017,1,Calumet Park,180
+1628,2017,1,Chicago,45869
+1629,2017,1,Chicago Heights,667
+1630,2017,1,Chicago Ridge,66
+1631,2017,1,Cicero,237
+1632,2017,1,Country Club Hills,18
+1633,2017,1,Countryside,10
+1634,2017,1,Crestwood,2
+1635,2017,1,Des Plaines,622
+1636,2017,1,Dixmoor,35
+1637,2017,1,Dolton,406
+1638,2017,1,Downers Grove,2
+1639,2017,1,East Hazel Crest,112
+1640,2017,1,Elgin,206
+1641,2017,1,Elk Grove Village,101
+1642,2017,1,Elk Grove Vlg,24
+1643,2017,1,Elmwood Park,214
+1644,2017,1,Evanston,301
+1645,2017,1,Evergreen Park,16
+1646,2017,1,Flossmoor,180
+1647,2017,1,Ford Heights,83
+1648,2017,1,Forest Park,47
+1649,2017,1,Forestview,12
+1650,2017,1,Franklin Park,7
+1651,2017,1,Glencoe,36
+1652,2017,1,Glenview,38
+1653,2017,1,Glenwood,5
+1654,2017,1,Hanover Park,50
+1655,2017,1,Harvey,1377
+1656,2017,1,Harwood Heights,79
+1657,2017,1,Hazel Crest,65
+1658,2017,1,Hickory Hills,69
+1659,2017,1,Hillside,5
+1660,2017,1,Hodgkins,18
+1661,2017,1,Hoffman Est,2
+1662,2017,1,Hoffman Estates,86
+1663,2017,1,Hometown,11
+1664,2017,1,Homewood,736
+1665,2017,1,Inverness,35
+1666,2017,1,Justice,35
+1667,2017,1,La Grange,12
+1668,2017,1,Lansing,239
+1669,2017,1,Lemont,67
+1670,2017,1,Lincolnwood,90
+1671,2017,1,Lynwood,11
+1672,2017,1,Lyons,633
+1673,2017,1,Markham,250
+1674,2017,1,Matteson,522
+1675,2017,1,Maywood,176
+1676,2017,1,Mc Cook,8
+1677,2017,1,Melrose Park,160
+1678,2017,1,Merrionette Park,12
+1679,2017,1,Midlothian,74
+1680,2017,1,Morton Grove,786
+1681,2017,1,Mount Prospect,184
+1682,2017,1,Niles,176
+1683,2017,1,North Riverside,98
+1684,2017,1,Northbrook,22
+1685,2017,1,Northlake,679
+1686,2017,1,Oak Forest,9
+1687,2017,1,Oak Lawn,98
+1688,2017,1,Oak Park,155
+1689,2017,1,Olympia Fields,24
+1690,2017,1,Orland Hills,100
+1691,2017,1,Orland Park,166
+1692,2017,1,Palatine,193
+1693,2017,1,Palos Heights,20
+1694,2017,1,Palos Hills,5
+1695,2017,1,Palos Park,604
+1696,2017,1,Park City,6
+1697,2017,1,Park Forest,234
+1698,2017,1,Phoenix,15
+1699,2017,1,Posen,27
+1700,2017,1,Prospect Heights,21
+1701,2017,1,Richton Park,126
+1702,2017,1,River Forest,48
+1703,2017,1,River Grove,12
+1704,2017,1,Riverdale,490
+1705,2017,1,Riverside,4
+1706,2017,1,Robbins,122
+1707,2017,1,Rockford,58
+1708,2017,1,Rolling Meadows,117
+1709,2017,1,Rosemont,7
+1710,2017,1,Sauk Village,322
+1711,2017,1,Schaumburg,268
+1712,2017,1,Schiller Park,24
+1713,2017,1,Skokie,73
+1714,2017,1,South Barrington,14
+1715,2017,1,South Chicago Heights,22
+1716,2017,1,South Holland,53
+1717,2017,1,Steger,5
+1718,2017,1,Stickney,1
+1719,2017,1,Stone Park,1
+1720,2017,1,Streamwood,167
+1721,2017,1,Summit,147
+1722,2017,1,Thornton,8
+1723,2017,1,Tinley Park,205
+1724,2017,1,Westchester,26
+1725,2017,1,Western Springs,9
+1726,2017,1,Wheeling,92
+1727,2017,1,Willow Springs,1
+1728,2017,1,Wilmette,68
+1729,2017,1,Winnetka,9
+1730,2017,1,Worth,39
+1731,2017,2,Alsip,1141
+1732,2017,2,Arlington Heights,862
+1733,2017,2,Arlington Hts,6
+1734,2017,2,Barrington,12
+1735,2017,2,Bartlett,92
+1736,2017,2,Bedford Park,43
+1737,2017,2,Beecher,39
+1738,2017,2,Bellwood,149
+1739,2017,2,Berkeley,36
+1740,2017,2,Berwyn,1205
+1741,2017,2,Blue Island,1891
+1742,2017,2,Bridgeview,1209
+1743,2017,2,Broadview,165
+1744,2017,2,Brookfield,99
+1745,2017,2,Buffalo Grove,29
+1746,2017,2,Burbank,20
+1747,2017,2,Burnham,130
+1748,2017,2,Calumet City,1168
+1749,2017,2,Calumet Park,2097
+1750,2017,2,Chicago,135735
+1751,2017,2,Chicago Heights,2643
+1752,2017,2,Chicago Hts,11
+1753,2017,2,Chicago Ridge,894
+1754,2017,2,Cicero,1408
+1755,2017,2,Country Club Hills,1443
+1756,2017,2,Countryside,7
+1757,2017,2,Crestwood,39
+1758,2017,2,Darien,1
+1759,2017,2,Des Plaines,1481
+1760,2017,2,Dixmoor,22
+1761,2017,2,Dolton,1367
+1762,2017,2,East Hazel Crest,27
+1763,2017,2,Elgin,765
+1764,2017,2,Elk Grove Village,254
+1765,2017,2,Elk Grove Vlg,8
+1766,2017,2,Elmhurst,25
+1767,2017,2,Elmwood,5
+1768,2017,2,Elmwood Park,606
+1769,2017,2,Evanston,1119
+1770,2017,2,Evergreen Park,67
+1771,2017,2,Flossmoor,409
+1772,2017,2,Ford Heights,402
+1773,2017,2,Forest Park,690
+1774,2017,2,Franklin Park,61
+1775,2017,2,Glencoe,30
+1776,2017,2,Glenview,373
+1777,2017,2,Glenwood,298
+1778,2017,2,Hanover Park,281
+1779,2017,2,Harvey,2022
+1780,2017,2,Harwood Heights,2388
+1781,2017,2,Harwood Hgts,4
+1782,2017,2,Hazel Crest,1319
+1783,2017,2,Hickory Hills,385
+1784,2017,2,Hillside,84
+1785,2017,2,Hines,12
+1786,2017,2,Hinsdale,421
+1787,2017,2,Hodgkins,91
+1788,2017,2,Hoffman Est,12
+1789,2017,2,Hoffman Estates,259
+1790,2017,2,Hometown,74
+1791,2017,2,Homewood,639
+1792,2017,2,Ind Head Park,18
+1793,2017,2,Justice,84
+1794,2017,2,Kenilworth,1
+1795,2017,2,La Grange,13
+1796,2017,2,La Grange Park,1
+1797,2017,2,Lansing,537
+1798,2017,2,Lemont,198
+1799,2017,2,Lincolnwood,39
+1800,2017,2,Lynwood,18
+1801,2017,2,Lyons,240
+1802,2017,2,Markham,2165
+1803,2017,2,Matteson,1738
+1804,2017,2,Maywood,929
+1805,2017,2,Mc Cook,5
+1806,2017,2,Melrose Park,286
+1807,2017,2,Merrionett Pk,32
+1808,2017,2,Merrionette Park,42
+1809,2017,2,Midlothian,416
+1810,2017,2,Morton Grove,1812
+1811,2017,2,Mount Prospect,348
+1812,2017,2,Mt Prospect,5
+1813,2017,2,N Riverside,16
+1814,2017,2,Naperville,43
+1815,2017,2,Niles,272
+1816,2017,2,Norridge,10
+1817,2017,2,North Riverside,427
+1818,2017,2,Northbrook,344
+1819,2017,2,Northfield,50
+1820,2017,2,Northlake,184
+1821,2017,2,Oak Brook,10
+1822,2017,2,Oak Forest,55
+1823,2017,2,Oak Lawn,185
+1824,2017,2,Oak Park,501
+1825,2017,2,Olympia Fields,41
+1826,2017,2,Orland Hills,132
+1827,2017,2,Orland Park,554
+1828,2017,2,Palatine,1993
+1829,2017,2,Palos Heights,19
+1830,2017,2,Palos Hills,23
+1831,2017,2,Palos Park,1152
+1832,2017,2,Park Forest,850
+1833,2017,2,Park Ridge,814
+1834,2017,2,Phoenix,9
+1835,2017,2,Pontiac,2
+1836,2017,2,Posen,42
+1837,2017,2,Prospect Heights,934
+1838,2017,2,Richton Park,198
+1839,2017,2,River Forest,123
+1840,2017,2,River Grove,35
+1841,2017,2,Riverdale,695
+1842,2017,2,Riverside,102
+1843,2017,2,Robbins,224
+1844,2017,2,Rockford,174
+1845,2017,2,Rolling Mdws,24
+1846,2017,2,Rolling Meadows,400
+1847,2017,2,Roselle,12
+1848,2017,2,Rosemont,237
+1849,2017,2,Round Lake,4
+1850,2017,2,S Barrington,3
+1851,2017,2,S Chicago Heights,168
+1852,2017,2,Sauk Village,578
+1853,2017,2,Schaumburg,604
+1854,2017,2,Schiller Park,453
+1855,2017,2,Skokie,785
+1856,2017,2,South Barrington,5
+1857,2017,2,South Chicago Heights,29
+1858,2017,2,South Holland,1686
+1859,2017,2,Steger,9
+1860,2017,2,Stickney,4
+1861,2017,2,Stone Park,5
+1862,2017,2,Streamwood,944
+1863,2017,2,Summit,287
+1864,2017,2,Thornton,12
+1865,2017,2,Tinley Park,369
+1866,2017,2,Westchester,30
+1867,2017,2,Western Springs,45
+1868,2017,2,Wheeling,808
+1869,2017,2,Willow Springs,2
+1870,2017,2,Wilmette,143
+1871,2017,2,Winnetka,156
+1872,2017,2,Worth,25
+1873,2017,3,Alsip,210
+1874,2017,3,Arlington Heights,5264
+1875,2017,3,Arlington Hts,4
+1876,2017,3,Aurora,1
+1877,2017,3,Barrington,18
+1878,2017,3,Bartlett,42
+1879,2017,3,Bedford Park,14
+1880,2017,3,Beecher,117
+1881,2017,3,Bellwood,55
+1882,2017,3,Berkeley,24
+1883,2017,3,Berwyn,397
+1884,2017,3,Bloomingdale,32
+1885,2017,3,Blue Island,513
+1886,2017,3,Bridgeview,271
+1887,2017,3,Broadview,91
+1888,2017,3,Brookfield,117
+1889,2017,3,Buffalo Grove,51
+1890,2017,3,Burbank,78
+1891,2017,3,Burnham,35
+1892,2017,3,Calumet City,2309
+1893,2017,3,Calumet Park,353
+1894,2017,3,Channahon,2
+1895,2017,3,Chicago,46850
+1896,2017,3,Chicago Heights,1245
+1897,2017,3,Chicago Hts,2
+1898,2017,3,Chicago Ridge,123
+1899,2017,3,Cicero,411
+1900,2017,3,Cntry Clb Hls,1
+1901,2017,3,Country Club Hills,499
+1902,2017,3,Countryside,29
+1903,2017,3,Crestwood,102
+1904,2017,3,Deerfield,48
+1905,2017,3,Des Plaines,1087
+1906,2017,3,Dixmoor,74
+1907,2017,3,Dolton,898
+1908,2017,3,East Hazel Crest,24
+1909,2017,3,Elgin,449
+1910,2017,3,Elk Grove Village,408
+1911,2017,3,Elmhurst,57
+1912,2017,3,Elmwood Park,149
+1913,2017,3,Evanston,488
+1914,2017,3,Evergreen Park,382
+1915,2017,3,Evergreen Pk,6
+1916,2017,3,Flossmoor,521
+1917,2017,3,Ford Heights,177
+1918,2017,3,Forest Park,173
+1919,2017,3,Franklin Park,78
+1920,2017,3,Glen Ellyn,26
+1921,2017,3,Glencoe,108
+1922,2017,3,Glenview,484
+1923,2017,3,Glenwood,190
+1924,2017,3,Hanover Park,238
+1925,2017,3,Harvey,1243
+1926,2017,3,Harwood Heights,2954
+1927,2017,3,Hazel Crest,251
+1928,2017,3,Hickory Hills,448
+1929,2017,3,Hillside,102
+1930,2017,3,Hines,1
+1931,2017,3,Hinsdale,5
+1932,2017,3,Hodgkins,70
+1933,2017,3,Hoffman Est,29
+1934,2017,3,Hoffman Estates,500
+1935,2017,3,Hometown,31
+1936,2017,3,Homewood,3161
+1937,2017,3,Ind Head Park,56
+1938,2017,3,Inverness,68
+1939,2017,3,Jefferson Park,9
+1940,2017,3,Justice,100
+1941,2017,3,La Grange,36
+1942,2017,3,Lake In The Hills,18
+1943,2017,3,Lansing,1055
+1944,2017,3,Lemont,58
+1945,2017,3,Lincolnwood,81
+1946,2017,3,Lynwood,211
+1947,2017,3,Lyons,406
+1948,2017,3,Markham,239
+1949,2017,3,Matteson,11746
+1950,2017,3,Maywood,746
+1951,2017,3,Melrose Park,717
+1952,2017,3,Merrionette Park,21
+1953,2017,3,Midlothian,186
+1954,2017,3,Morton Grove,688
+1955,2017,3,Mount Prospect,1706
+1956,2017,3,N Riverside,50
+1957,2017,3,Naperville,96
+1958,2017,3,New Lenox,2
+1959,2017,3,Niles,822
+1960,2017,3,Norridge,91
+1961,2017,3,North Riverside,721
+1962,2017,3,Northbrook,700
+1963,2017,3,Northfield,43
+1964,2017,3,Northlake,111
+1965,2017,3,Oak Brook,5
+1966,2017,3,Oak Forest,40
+1967,2017,3,Oak Lawn,313
+1968,2017,3,Oak Park,665
+1969,2017,3,Olympia Fields,196
+1970,2017,3,Orland Hills,1631
+1971,2017,3,Orland Park,2294
+1972,2017,3,Palatine,872
+1973,2017,3,Palos Heights,24
+1974,2017,3,Palos Hills,122
+1975,2017,3,Palos Park,1889
+1976,2017,3,Park City,3
+1977,2017,3,Park Forest,385
+1978,2017,3,Park Ridge,400
+1979,2017,3,Phoenix,6
+1980,2017,3,Pontiac,2
+1981,2017,3,Posen,50
+1982,2017,3,Prospect Heights,146
+1983,2017,3,Richton Park,692
+1984,2017,3,River Forest,57
+1985,2017,3,River Grove,11
+1986,2017,3,Riverdale,596
+1987,2017,3,Riverside,31
+1988,2017,3,Robbins,69
+1989,2017,3,Rockford,493
+1990,2017,3,Rolling Mdws,17
+1991,2017,3,Rolling Meadows,232
+1992,2017,3,Roselle,12
+1993,2017,3,Rosemont,238
+1994,2017,3,S Chicago Heights,11
+1995,2017,3,Sauk Village,1673
+1996,2017,3,Schaumburg,680
+1997,2017,3,Schiller Park,593
+1998,2017,3,Skokie,1381
+1999,2017,3,South Barrington,9
+2000,2017,3,South Chicago Heights,27
+2001,2017,3,South Holland,534
+2002,2017,3,Steger,33
+2003,2017,3,Stickney,98
+2004,2017,3,Stone Park,42
+2005,2017,3,Streamwood,422
+2006,2017,3,Summit,258
+2007,2017,3,Thornton,57
+2008,2017,3,Tinley Park,301
+2009,2017,3,Westchester,24
+2010,2017,3,Western Springs,27
+2011,2017,3,Wheeling,373
+2012,2017,3,Willow Springs,1
+2013,2017,3,Wilmette,775
+2014,2017,3,Winnetka,421
+2015,2017,3,Worth,13
+2016,2017,4,Alsip,510
+2017,2017,4,Arlington Heights,826
+2018,2017,4,Barrington,19
+2019,2017,4,Barrington Hills,4
+2020,2017,4,Bartlett,173
+2021,2017,4,Bedford Park,75
+2022,2017,4,Bellwood,211
+2023,2017,4,Berkeley,64
+2024,2017,4,Berwyn,800
+2025,2017,4,Bloomingdale,32
+2026,2017,4,Blue Island,688
+2027,2017,4,Bolingbrook,4
+2028,2017,4,Bridgeview,452
+2029,2017,4,Broadview,388
+2030,2017,4,Brookfield,21
+2031,2017,4,Buffalo Grove,125
+2032,2017,4,Burbank,110
+2033,2017,4,Burnham,80
+2034,2017,4,Burr Ridge,4
+2035,2017,4,Calumet City,1357
+2036,2017,4,Calumet Park,530
+2037,2017,4,Chicago,138125
+2038,2017,4,Chicago Heights,2649
+2039,2017,4,Chicago Hts,34
+2040,2017,4,Chicago Ridge,236
+2041,2017,4,Cicero,1761
+2042,2017,4,Cntry Clb Hls,1
+2043,2017,4,Country Club Hills,342
+2044,2017,4,Countryside,38
+2045,2017,4,Crestwood,119
+2046,2017,4,Deerfield,17
+2047,2017,4,Des Plaines,735
+2048,2017,4,Dixmoor,11
+2049,2017,4,Dolton,2006
+2050,2017,4,East Hazel Crest,30
+2051,2017,4,Elgin,716
+2052,2017,4,Elk Grove Village,659
+2053,2017,4,Elk Grove Vlg,30
+2054,2017,4,Elmhurst,24
+2055,2017,4,Elmwood Park,255
+2056,2017,4,Evanston,1379
+2057,2017,4,Evergreen Park,359
+2058,2017,4,Evergreen Pk,7
+2059,2017,4,Flossmoor,176
+2060,2017,4,Ford Heights,431
+2061,2017,4,Forest Park,1132
+2062,2017,4,Forestview,2
+2063,2017,4,Franklin Park,187
+2064,2017,4,Glen Ellyn,31
+2065,2017,4,Glencoe,8
+2066,2017,4,Glenview,285
+2067,2017,4,Glenwood,443
+2068,2017,4,Hanover Park,500
+2069,2017,4,Harvey,4342
+2070,2017,4,Harwood Heights,210
+2071,2017,4,Hazel Crest,636
+2072,2017,4,Hickory Hills,303
+2073,2017,4,Hillside,181
+2074,2017,4,Hines,1
+2075,2017,4,Hinsdale,89
+2076,2017,4,Hodgkins,80
+2077,2017,4,Hoffman Est,71
+2078,2017,4,Hoffman Estates,360
+2079,2017,4,Hometown,50
+2080,2017,4,Homewood,1210
+2081,2017,4,Ind Head Park,63
+2082,2017,4,Indian Head Park,16
+2083,2017,4,Inverness,34
+2084,2017,4,Jefferson Park,72
+2085,2017,4,Justice,250
+2086,2017,4,La Grange,34
+2087,2017,4,La Grange Highlands,1
+2088,2017,4,La Grange Park,2
+2089,2017,4,Lake In The Hills,12
+2090,2017,4,Lansing,919
+2091,2017,4,Lemont,107
+2092,2017,4,Lincolnwood,107
+2093,2017,4,Lynwood,239
+2094,2017,4,Lyons,1197
+2095,2017,4,Markham,1042
+2096,2017,4,Matteson,1272
+2097,2017,4,Maywood,583
+2098,2017,4,Mc Cook,27
+2099,2017,4,Melrose Park,497
+2100,2017,4,Merrionette Park,83
+2101,2017,4,Midlothian,412
+2102,2017,4,Minooka,1
+2103,2017,4,Mokena,1
+2104,2017,4,Morton Grove,436
+2105,2017,4,Mount Prospect,784
+2106,2017,4,Mt Prospect,69
+2107,2017,4,N Riverside,35
+2108,2017,4,Naperville,12
+2109,2017,4,New Lenox,2
+2110,2017,4,Niles,648
+2111,2017,4,Norridge,117
+2112,2017,4,North Riverside,417
+2113,2017,4,Northbrook,522
+2114,2017,4,Northfield,48
+2115,2017,4,Northlake,206
+2116,2017,4,Oak Brook,15
+2117,2017,4,Oak Forest,30
+2118,2017,4,Oak Lawn,747
+2119,2017,4,Oak Park,859
+2120,2017,4,Olympia Fields,136
+2121,2017,4,Orland Hills,603
+2122,2017,4,Orland Park,2073
+2123,2017,4,Palatine,552
+2124,2017,4,Palos Heights,47
+2125,2017,4,Palos Hills,103
+2126,2017,4,Palos Park,1143
+2127,2017,4,Park Forest,745
+2128,2017,4,Park Ridge,73
+2129,2017,4,Phoenix,35
+2130,2017,4,Posen,364
+2131,2017,4,Prospect Heights,391
+2132,2017,4,Richton Park,313
+2133,2017,4,River Forest,277
+2134,2017,4,River Grove,95
+2135,2017,4,Riverdale,713
+2136,2017,4,Riverside,186
+2137,2017,4,Robbins,335
+2138,2017,4,Rockford,116
+2139,2017,4,Rolling Mdws,33
+2140,2017,4,Rolling Meadows,351
+2141,2017,4,Roselle,8
+2142,2017,4,Rosemont,148
+2143,2017,4,Round Lake,4
+2144,2017,4,S Barrington,6
+2145,2017,4,S Chicago Heights,77
+2146,2017,4,S Chicago Hts,1
+2147,2017,4,Sauk Village,675
+2148,2017,4,Schaumburg,844
+2149,2017,4,Schiller Park,332
+2150,2017,4,Skokie,1721
+2151,2017,4,South Barrington,44
+2152,2017,4,South Chicago Heights,88
+2153,2017,4,South Holland,514
+2154,2017,4,Steger,30
+2155,2017,4,Stickney,50
+2156,2017,4,Stone Park,26
+2157,2017,4,Streamwood,821
+2158,2017,4,Summit,498
+2159,2017,4,Thornton,15
+2160,2017,4,Tinley Park,723
+2161,2017,4,Westchester,124
+2162,2017,4,Wheeling,795
+2163,2017,4,Willow Springs,11
+2164,2017,4,Wilmette,501
+2165,2017,4,Winnetka,56
+2166,2017,4,Worth,35
+2167,2017,A,Alsip,28
+2168,2017,A,Arlington Heights,24
+2169,2017,A,Barrington,2
+2170,2017,A,Bartlett,1
+2171,2017,A,Bedford Park,4
+2172,2017,A,Bellwood,33
+2173,2017,A,Berkeley,3
+2174,2017,A,Berwyn,58
+2175,2017,A,Blue Island,40
+2176,2017,A,Bridgeview,28
+2177,2017,A,Broadview,19
+2178,2017,A,Brookfield,1
+2179,2017,A,Buffalo Grove,5
+2180,2017,A,Burbank,11
+2181,2017,A,Burnham,2
+2182,2017,A,Burr Ridge,3
+2183,2017,A,Calumet City,46
+2184,2017,A,Calumet Park,14
+2185,2017,A,Channahon,2
+2186,2017,A,Chicago,3605
+2187,2017,A,Chicago Heights,40
+2188,2017,A,Chicago Ridge,5
+2189,2017,A,Cicero,85
+2190,2017,A,Cntry Clb Hls,2
+2191,2017,A,Country Club Hills,12
+2192,2017,A,Countryside,2
+2193,2017,A,Crestwood,24
+2194,2017,A,Des Plaines,54
+2195,2017,A,Dolton,28
+2196,2017,A,East Hazel Crest,1
+2197,2017,A,Elgin,9
+2198,2017,A,Elk Grove Village,7
+2199,2017,A,Elk Grove Vlg,3
+2200,2017,A,Elmwood Park,17
+2201,2017,A,Evanston,62
+2202,2017,A,Evergreen Park,42
+2203,2017,A,Flossmoor,6
+2204,2017,A,Ford Heights,10
+2205,2017,A,Forest Park,18
+2206,2017,A,Franklin Park,24
+2207,2017,A,Glencoe,3
+2208,2017,A,Glenview,9
+2209,2017,A,Hanover Park,9
+2210,2017,A,Harvey,56
+2211,2017,A,Harwood Heights,3
+2212,2017,A,Hazel Crest,39
+2213,2017,A,Hickory Hills,7
+2214,2017,A,Hillside,4
+2215,2017,A,Hines,5
+2216,2017,A,Hodgkins,17
+2217,2017,A,Hoffman Estates,44
+2218,2017,A,Hometown,4
+2219,2017,A,Homewood,31
+2220,2017,A,Justice,6
+2221,2017,A,La Grange,1
+2222,2017,A,Lake In The Hills,6
+2223,2017,A,Lansing,40
+2224,2017,A,Lemont,13
+2225,2017,A,Lincolnwood,6
+2226,2017,A,Lynwood,24
+2227,2017,A,Lyons,10
+2228,2017,A,Markham,42
+2229,2017,A,Matteson,20
+2230,2017,A,Maywood,14
+2231,2017,A,Melrose Park,66
+2232,2017,A,Midlothian,15
+2233,2017,A,Morton Grove,19
+2234,2017,A,Mount Prospect,37
+2235,2017,A,N Riverside,2
+2236,2017,A,Niles,23
+2237,2017,A,Norridge,17
+2238,2017,A,North Riverside,16
+2239,2017,A,Northbrook,18
+2240,2017,A,Northfield,2
+2241,2017,A,Northlake,15
+2242,2017,A,Oak Forest,10
+2243,2017,A,Oak Lawn,75
+2244,2017,A,Oak Park,13
+2245,2017,A,Olympia Fields,3
+2246,2017,A,Orland Hills,2
+2247,2017,A,Orland Park,84
+2248,2017,A,Palatine,34
+2249,2017,A,Palos Heights,7
+2250,2017,A,Palos Hills,7
+2251,2017,A,Park Forest,26
+2252,2017,A,Park Ridge,3
+2253,2017,A,Phoenix,2
+2254,2017,A,Posen,6
+2255,2017,A,Prospect Heights,26
+2256,2017,A,Richton Park,4
+2257,2017,A,River Forest,16
+2258,2017,A,River Grove,10
+2259,2017,A,Riverdale,42
+2260,2017,A,Riverside,23
+2261,2017,A,Robbins,2
+2262,2017,A,Rolling Meadows,15
+2263,2017,A,Roselle,1
+2264,2017,A,Rosemont,65
+2265,2017,A,Round Lake,8
+2266,2017,A,Sauk Village,37
+2267,2017,A,Schaumburg,34
+2268,2017,A,Schiller Park,8
+2269,2017,A,Skokie,38
+2270,2017,A,South Barrington,2
+2271,2017,A,South Holland,17
+2272,2017,A,Steger,4
+2273,2017,A,Stickney,2
+2274,2017,A,Stone Park,16
+2275,2017,A,Streamwood,31
+2276,2017,A,Summit,4
+2277,2017,A,Tinley Park,18
+2278,2017,A,Westchester,5
+2279,2017,A,Wheeling,17
+2280,2017,A,Wilmette,17
+2281,2017,A,Winnetka,3
+2282,2017,A,Worth,8
+2283,2017,B,Buffalo Grove,3
+2284,2017,B,Calumet City,1
+2285,2017,B,Chicago,89
+2286,2017,B,Chicago Heights,2
+2287,2017,B,Cicero,1
+2288,2017,B,Evanston,3
+2289,2017,B,Flossmoor,4
+2290,2017,B,Ford Heights,1
+2291,2017,B,Glenview,2
+2292,2017,B,Melrose Park,1
+2293,2017,B,Oak Lawn,1
+2294,2017,B,Orland Park,8
+2295,2017,B,Palatine,2
+2296,2017,B,Rosemont,1
+2297,2017,B,Sauk Village,1
+2298,2017,B,Schaumburg,1
+2299,2017,C,Alsip,6
+2300,2017,C,Broadview,1
+2301,2017,C,Chicago,65
+2302,2017,C,Chicago Heights,1
+2303,2017,C,Cicero,11
+2304,2017,C,Country Club Hills,1
+2305,2017,C,Des Plaines,1
+2306,2017,C,Elgin,3
+2307,2017,C,Forest Park,7
+2308,2017,C,Franklin Park,6
+2309,2017,C,Harvey,4
+2310,2017,C,Hometown,1
+2311,2017,C,Maywood,1
+2312,2017,C,Melrose Park,1
+2313,2017,C,Northbrook,3
+2314,2017,C,Northlake,2
+2315,2017,C,Oak Lawn,1
+2316,2017,C,Palatine,1
+2317,2017,C,Palos Park,1
+2318,2017,C,Park Forest,3
+2319,2017,C,Posen,2
+2320,2017,C,Riverdale,2
+2321,2017,C,Riverside,7
+2322,2017,C,Tinley Park,4
+2323,2017,C,Wheeling,1
+2324,2017,M,Arlington Heights,36
+2325,2017,M,Berwyn,9
+2326,2017,M,Blue Island,1804
+2327,2017,M,Broadview,140
+2328,2017,M,Calumet City,91
+2329,2017,M,Chicago,139709
+2330,2017,M,Cicero,91
+2331,2017,M,Country Club Hills,153
+2332,2017,M,Dixmoor,64
+2333,2017,M,Elk Grove Village,18
+2334,2017,M,Evanston,242
+2335,2017,M,Harvey,7644
+2336,2017,M,Homewood,64
+2337,2017,M,Markham,94
+2338,2017,M,Maywood,1342
+2339,2017,M,Palos Park,12213
+2340,2017,M,Richton Park,1280
+2341,2017,M,Riverdale,64
+2342,2017,M,Summit,870
+2343,2017,O,Chicago,2
+2344,2017,P,Riverside,1
+2345,2017,X,Alsip,185
+2346,2017,X,Arlington Heights,232
+2347,2017,X,Arlington Hts,4
+2348,2017,X,Bartlett,62
+2349,2017,X,Bedford Park,20
+2350,2017,X,Bellwood,105
+2351,2017,X,Berkeley,22
+2352,2017,X,Berwyn,297
+2353,2017,X,Blue Island,1636
+2354,2017,X,Bridgeview,97
+2355,2017,X,Broadview,233
+2356,2017,X,Brookfield,206
+2357,2017,X,Buffalo Grove,11
+2358,2017,X,Burbank,10
+2359,2017,X,Burnham,18
+2360,2017,X,Calumet City,182
+2361,2017,X,Calumet Park,1540
+2362,2017,X,Chicago,176428
+2363,2017,X,Chicago Heights,1750
+2364,2017,X,Chicago Hts,6
+2365,2017,X,Chicago Ridge,914
+2366,2017,X,Cicero,856
+2367,2017,X,Country Club Hills,4259
+2368,2017,X,Des Plaines,510
+2369,2017,X,Dixmoor,103
+2370,2017,X,Dolton,976
+2371,2017,X,Downers Grove,4
+2372,2017,X,East Hazel Crest,288
+2373,2017,X,Elgin,182
+2374,2017,X,Elk Grove Village,69
+2375,2017,X,Elk Grove Vlg,8
+2376,2017,X,Elmwood Park,611
+2377,2017,X,Evanston,143
+2378,2017,X,Evergreen Park,31
+2379,2017,X,Flossmoor,1
+2380,2017,X,Ford Heights,340
+2381,2017,X,Forest Park,59
+2382,2017,X,Forestview,4
+2383,2017,X,Franklin Park,9
+2384,2017,X,Glenview,161
+2385,2017,X,Glenwood,73
+2386,2017,X,Hanover Park,288
+2387,2017,X,Harvey,3538
+2388,2017,X,Hazel Crest,467
+2389,2017,X,Hickory Hills,317
+2390,2017,X,Hillside,58
+2391,2017,X,Hoffman Est,3
+2392,2017,X,Hoffman Estates,111
+2393,2017,X,Hometown,27
+2394,2017,X,Homewood,76
+2395,2017,X,Inverness,442
+2396,2017,X,Justice,15
+2397,2017,X,La Grange,10
+2398,2017,X,Lansing,552
+2399,2017,X,Lemont,70
+2400,2017,X,Lincolnwood,1
+2401,2017,X,Lynwood,7
+2402,2017,X,Lyons,1957
+2403,2017,X,Markham,2925
+2404,2017,X,Matteson,373
+2405,2017,X,Maywood,290
+2406,2017,X,Melrose Park,317
+2407,2017,X,Merrionett Pk,32
+2408,2017,X,Merrionette Park,20
+2409,2017,X,Midlothian,669
+2410,2017,X,Morton Grove,230
+2411,2017,X,Mount Prospect,84
+2412,2017,X,Niles,264
+2413,2017,X,Northbrook,17
+2414,2017,X,Northlake,289
+2415,2017,X,Oak Lawn,134
+2416,2017,X,Oak Park,776
+2417,2017,X,Olympia Fields,21
+2418,2017,X,Orland Hills,4
+2419,2017,X,Orland Park,156
+2420,2017,X,Palatine,1518
+2421,2017,X,Palos Heights,16
+2422,2017,X,Palos Park,2496
+2423,2017,X,Park Forest,808
+2424,2017,X,Park Ridge,1303
+2425,2017,X,Phoenix,11
+2426,2017,X,Posen,59
+2427,2017,X,Prospect Heights,330
+2428,2017,X,Richton Park,338
+2429,2017,X,River Forest,2
+2430,2017,X,Riverdale,933
+2431,2017,X,Riverside,40
+2432,2017,X,Robbins,291
+2433,2017,X,Rolling Meadows,210
+2434,2017,X,Rosemont,42
+2435,2017,X,Sauk Village,569
+2436,2017,X,Schaumburg,739
+2437,2017,X,Schiller Park,453
+2438,2017,X,Skokie,148
+2439,2017,X,South Chicago Heights,4
+2440,2017,X,South Holland,1271
+2441,2017,X,Stickney,36
+2442,2017,X,Stone Park,11
+2443,2017,X,Streamwood,687
+2444,2017,X,Summit,189
+2445,2017,X,Tinley Park,101
+2446,2017,X,Wheeling,640
+2447,2017,X,Wilmette,43
+2448,2017,X,Worth,145
+2449,2017,Z,Chicago,195
+2450,2018,1,Albers,2
+2451,2018,1,Alsip,141
+2452,2018,1,Arlington Heights,299
+2453,2018,1,Barrington,174
+2454,2018,1,Bartlett,6
+2455,2018,1,Bedford Park,60
+2456,2018,1,Bellwood,157
+2457,2018,1,Berkeley,8
+2458,2018,1,Berwyn,978
+2459,2018,1,Blue Island,191
+2460,2018,1,Bridgeview,156
+2461,2018,1,Broadview,33
+2462,2018,1,Brookfield,5
+2463,2018,1,Buffalo Grove,20
+2464,2018,1,Burbank,113
+2465,2018,1,Burnham,87
+2466,2018,1,Burr Ridge,3
+2467,2018,1,Calumet City,989
+2468,2018,1,Calumet Park,40
+2469,2018,1,Cedar Lake,27
+2470,2018,1,Chicago,35718
+2471,2018,1,Chicago Heights,603
+2472,2018,1,Chicago Ridge,20
+2473,2018,1,Cicero,402
+2474,2018,1,Country Club Hills,87
+2475,2018,1,Crestwood,11
+2476,2018,1,Deerfield,20
+2477,2018,1,Des Plaines,191
+2478,2018,1,Dixmoor,5
+2479,2018,1,Dolton,666
+2480,2018,1,East Hazel Crest,31
+2481,2018,1,Elgin,34
+2482,2018,1,Elk Grove Village,49
+2483,2018,1,Elmwood Park,149
+2484,2018,1,Evanston,264
+2485,2018,1,Evergreen Park,28
+2486,2018,1,Flossmoor,73
+2487,2018,1,Ford Heights,125
+2488,2018,1,Forest Park,64
+2489,2018,1,Forestview,5
+2490,2018,1,Franklin Park,26
+2491,2018,1,Glenview,23
+2492,2018,1,Glenwood,87
+2493,2018,1,Hanover Park,61
+2494,2018,1,Harvey,2033
+2495,2018,1,Harwood Heights,1
+2496,2018,1,Hazel Crest,257
+2497,2018,1,Hickory Hills,105
+2498,2018,1,Hillside,13
+2499,2018,1,Hodgkins,7
+2500,2018,1,Hoffman Est,4
+2501,2018,1,Hoffman Estates,57
+2502,2018,1,Hometown,4
+2503,2018,1,Homewood,253
+2504,2018,1,Justice,245
+2505,2018,1,Lansing,707
+2506,2018,1,Lemont,83
+2507,2018,1,Lincolnwood,51
+2508,2018,1,Lyons,12
+2509,2018,1,Markham,246
+2510,2018,1,Matteson,494
+2511,2018,1,Maywood,226
+2512,2018,1,Melrose Park,476
+2513,2018,1,Merrionette Park,1
+2514,2018,1,Midlothian,132
+2515,2018,1,Morton Grove,53
+2516,2018,1,Mount Greenwood,2
+2517,2018,1,Mount Prospect,141
+2518,2018,1,Mt Prospect,111
+2519,2018,1,N Riverside,2
+2520,2018,1,Niles,409
+2521,2018,1,Norridge,27
+2522,2018,1,North Riverside,33
+2523,2018,1,Northbrook,147
+2524,2018,1,Northfield,11
+2525,2018,1,Northlake,80
+2526,2018,1,Oak Forest,55
+2527,2018,1,Oak Lawn,320
+2528,2018,1,Oak Park,362
+2529,2018,1,Olympia Fields,23
+2530,2018,1,Orland Hills,54
+2531,2018,1,Orland Park,405
+2532,2018,1,Palatine,352
+2533,2018,1,Palos Hills,5
+2534,2018,1,Park City,9
+2535,2018,1,Park Forest,908
+2536,2018,1,Park Ridge,20
+2537,2018,1,Posen,14
+2538,2018,1,Prospect Heights,33
+2539,2018,1,Richton Park,222
+2540,2018,1,River Forest,18
+2541,2018,1,River Grove,35
+2542,2018,1,Riverdale,110
+2543,2018,1,Riverside,1
+2544,2018,1,Robbins,85
+2545,2018,1,Rolling Mdws,19
+2546,2018,1,Rolling Meadows,1040
+2547,2018,1,Rosemont,27
+2548,2018,1,S Chicago Heights,11
+2549,2018,1,Sauk Village,1136
+2550,2018,1,Schaumburg,194
+2551,2018,1,Schiller Park,30
+2552,2018,1,Skokie,87
+2553,2018,1,South Barrington,19
+2554,2018,1,South Chicago Heights,12
+2555,2018,1,South Holland,333
+2556,2018,1,Steger,20
+2557,2018,1,Stickney,94
+2558,2018,1,Stone Park,8
+2559,2018,1,Streamwood,391
+2560,2018,1,Summit,100
+2561,2018,1,Thornton,2
+2562,2018,1,Tinley Park,18
+2563,2018,1,Westchester,17
+2564,2018,1,Western Springs,24
+2565,2018,1,Wheeling,592
+2566,2018,1,Willow Springs,15
+2567,2018,1,Wilmette,11
+2568,2018,1,Winnetka,3
+2569,2018,1,Worth,28
+2570,2018,2,Albers,2
+2571,2018,2,Alsip,569
+2572,2018,2,Arlington Heights,759
+2573,2018,2,Barrington,374
+2574,2018,2,Bartlett,16
+2575,2018,2,Bedford Park,457
+2576,2018,2,Bellwood,350
+2577,2018,2,Berkeley,10
+2578,2018,2,Berwyn,2415
+2579,2018,2,Blue Island,645
+2580,2018,2,Bridgeview,381
+2581,2018,2,Broadview,152
+2582,2018,2,Brookfield,88
+2583,2018,2,Buffalo Grove,73
+2584,2018,2,Burbank,1002
+2585,2018,2,Burnham,1136
+2586,2018,2,Burr Ridge,3
+2587,2018,2,Calumet City,1909
+2588,2018,2,Calumet Park,1319
+2589,2018,2,Cedar Lake,22
+2590,2018,2,Chicago,126772
+2591,2018,2,Chicago Heights,1307
+2592,2018,2,Chicago Ridge,71
+2593,2018,2,Cicero,1555
+2594,2018,2,Country Club Hills,327
+2595,2018,2,Countryside,1049
+2596,2018,2,Crestwood,60
+2597,2018,2,Deerfield,6
+2598,2018,2,Des Plaines,298
+2599,2018,2,Dixmoor,57
+2600,2018,2,Dolton,1940
+2601,2018,2,East Hazel Crest,109
+2602,2018,2,Elgin,2015
+2603,2018,2,Elk Grove Village,1361
+2604,2018,2,Elmhurst,2
+2605,2018,2,Elmwood Park,676
+2606,2018,2,Evanston,1990
+2607,2018,2,Evergreen Park,471
+2608,2018,2,Flossmoor,24
+2609,2018,2,Ford Heights,1406
+2610,2018,2,Forest Park,304
+2611,2018,2,Forestview,1106
+2612,2018,2,Franklin Park,281
+2613,2018,2,Glencoe,58
+2614,2018,2,Glenview,118
+2615,2018,2,Glenwood,87
+2616,2018,2,Gurnee,8
+2617,2018,2,Hanover Park,350
+2618,2018,2,Harvey,2890
+2619,2018,2,Harwood Heights,100
+2620,2018,2,Hazel Crest,283
+2621,2018,2,Hickory Hills,77
+2622,2018,2,Highland Park,12
+2623,2018,2,Hillside,105
+2624,2018,2,Hines,24
+2625,2018,2,Hodgkins,1
+2626,2018,2,Hoffman Est,38
+2627,2018,2,Hoffman Estates,225
+2628,2018,2,Hometown,36
+2629,2018,2,Homewood,954
+2630,2018,2,Jefferson Park,55
+2631,2018,2,Joliet,2
+2632,2018,2,Justice,113
+2633,2018,2,Kenilworth,7
+2634,2018,2,La Grange,3
+2635,2018,2,La Grange Park,62
+2636,2018,2,Lansing,798
+2637,2018,2,Lemont,696
+2638,2018,2,Lincolnwood,32
+2639,2018,2,Lynwood,8
+2640,2018,2,Lyons,45
+2641,2018,2,Machesney Park,8
+2642,2018,2,Markham,1095
+2643,2018,2,Matteson,991
+2644,2018,2,Maywood,746
+2645,2018,2,Melrose Park,1345
+2646,2018,2,Midlothian,145
+2647,2018,2,Morton Grove,62
+2648,2018,2,Mount Greenwood,28
+2649,2018,2,Mount Prospect,241
+2650,2018,2,Mt Prospect,199
+2651,2018,2,N Riverside,4
+2652,2018,2,Niles,806
+2653,2018,2,Norridge,90
+2654,2018,2,North Riverside,145
+2655,2018,2,Northbrook,224
+2656,2018,2,Northfield,35
+2657,2018,2,Northlake,32
+2658,2018,2,Oak Brook,2
+2659,2018,2,Oak Forest,185
+2660,2018,2,Oak Lawn,1009
+2661,2018,2,Oak Park,492
+2662,2018,2,Olympia Fields,163
+2663,2018,2,Orland Hills,114
+2664,2018,2,Orland Park,978
+2665,2018,2,Palatine,1082
+2666,2018,2,Palos Heights,43
+2667,2018,2,Palos Hills,41
+2668,2018,2,Palos Park,4
+2669,2018,2,Park City,3
+2670,2018,2,Park Forest,2200
+2671,2018,2,Park Ridge,130
+2672,2018,2,Phoenix,38
+2673,2018,2,Portage,1
+2674,2018,2,Posen,115
+2675,2018,2,Prospect Heights,108
+2676,2018,2,Richton Park,535
+2677,2018,2,River Forest,89
+2678,2018,2,River Grove,89
+2679,2018,2,Riverdale,1880
+2680,2018,2,Riverside,131
+2681,2018,2,Robbins,160
+2682,2018,2,Rolling Mdws,36
+2683,2018,2,Rolling Meadows,412
+2684,2018,2,Roselle,10
+2685,2018,2,Rosemont,596
+2686,2018,2,S Barrington,16
+2687,2018,2,Sauk Village,805
+2688,2018,2,Schaumburg,430
+2689,2018,2,Schiller Park,81
+2690,2018,2,Skokie,750
+2691,2018,2,South Barrington,58
+2692,2018,2,South Chicago Heights,489
+2693,2018,2,South Holland,512
+2694,2018,2,Steger,132
+2695,2018,2,Stickney,501
+2696,2018,2,Stone Park,6
+2697,2018,2,Streamwood,309
+2698,2018,2,Summit,249
+2699,2018,2,Tinley Park,562
+2700,2018,2,Vernon Hills,3
+2701,2018,2,Westchester,62
+2702,2018,2,Wheeling,1085
+2703,2018,2,Willow Springs,316
+2704,2018,2,Wilmette,26
+2705,2018,2,Winnetka,14
+2706,2018,2,Worth,79
+2707,2018,3,Alsip,3894
+2708,2018,3,Arlington Heights,1735
+2709,2018,3,Barrington,1104
+2710,2018,3,Bartlett,70
+2711,2018,3,Bedford Park,192
+2712,2018,3,Bellwood,183
+2713,2018,3,Berkeley,78
+2714,2018,3,Berwyn,814
+2715,2018,3,Blue Island,566
+2716,2018,3,Bridgeview,515
+2717,2018,3,Broadview,144
+2718,2018,3,Brookfield,89
+2719,2018,3,Buffalo Grove,344
+2720,2018,3,Burbank,1507
+2721,2018,3,Burnham,355
+2722,2018,3,Burr Ridge,9
+2723,2018,3,Calumet City,1082
+2724,2018,3,Calumet Park,163
+2725,2018,3,Cedar Lake,24
+2726,2018,3,Chicago,45530
+2727,2018,3,Chicago Heights,585
+2728,2018,3,Chicago Hts,6
+2729,2018,3,Chicago Ridge,107
+2730,2018,3,Cicero,791
+2731,2018,3,Cntry Clb Hls,16
+2732,2018,3,Country Club Hills,1651
+2733,2018,3,Countryside,225
+2734,2018,3,Crestwood,713
+2735,2018,3,Des Plaines,356
+2736,2018,3,Dixmoor,27
+2737,2018,3,Dolton,811
+2738,2018,3,East Hazel Crest,44
+2739,2018,3,Elgin,623
+2740,2018,3,Elk Grove Village,243
+2741,2018,3,Elmwood Park,963
+2742,2018,3,Evanston,1263
+2743,2018,3,Evansville,42
+2744,2018,3,Evergreen Park,826
+2745,2018,3,Flossmoor,288
+2746,2018,3,Ford Heights,356
+2747,2018,3,Forest Park,195
+2748,2018,3,Forestview,194
+2749,2018,3,Franklin Park,243
+2750,2018,3,Glencoe,145
+2751,2018,3,Glenview,541
+2752,2018,3,Glenwood,25
+2753,2018,3,Gurnee,8
+2754,2018,3,Hanover Park,180
+2755,2018,3,Harvey,1109
+2756,2018,3,Harwood Heights,108
+2757,2018,3,Hazel Crest,90
+2758,2018,3,Hickory Hills,550
+2759,2018,3,Highland Park,36
+2760,2018,3,Hillside,29
+2761,2018,3,Hinsdale,2
+2762,2018,3,Hodgkins,68
+2763,2018,3,Hoffman Est,30
+2764,2018,3,Hoffman Estates,233
+2765,2018,3,Hometown,31
+2766,2018,3,Homewood,3453
+2767,2018,3,Ind Head Pk,1
+2768,2018,3,Indian Head Park,68
+2769,2018,3,Indianhead Park,1
+2770,2018,3,Joliet,2
+2771,2018,3,Justice,191
+2772,2018,3,Kenilworth,7
+2773,2018,3,La Grange,11
+2774,2018,3,Lansing,2645
+2775,2018,3,Lemont,213
+2776,2018,3,Lincolnwood,227
+2777,2018,3,Lynwood,26
+2778,2018,3,Lyons,112
+2779,2018,3,Machesney Park,8
+2780,2018,3,Markham,1135
+2781,2018,3,Matteson,2787
+2782,2018,3,Maywood,238
+2783,2018,3,Melrose Park,2081
+2784,2018,3,Merrionette Park,38
+2785,2018,3,Midlothian,170
+2786,2018,3,Morton Grove,185
+2787,2018,3,Mount Greenwood,16
+2788,2018,3,Mount Prospect,756
+2789,2018,3,Mt Prospect,3
+2790,2018,3,N Riverside,198
+2791,2018,3,Niles,1117
+2792,2018,3,Norridge,337
+2793,2018,3,North Riverside,472
+2794,2018,3,Northbrook,408
+2795,2018,3,Northfield,91
+2796,2018,3,Northlake,55
+2797,2018,3,Oak Forest,246
+2798,2018,3,Oak Lawn,2492
+2799,2018,3,Oak Park,1430
+2800,2018,3,Olympia Fields,183
+2801,2018,3,Orland Hills,1601
+2802,2018,3,Orland Park,4304
+2803,2018,3,Palatine,788
+2804,2018,3,Palos Heights,20
+2805,2018,3,Palos Hills,67
+2806,2018,3,Palos Park,16
+2807,2018,3,Park City,6
+2808,2018,3,Park Forest,946
+2809,2018,3,Park Ridge,96
+2810,2018,3,Phoenix,23
+2811,2018,3,Posen,70
+2812,2018,3,Prospect Heights,322
+2813,2018,3,Richton Park,256
+2814,2018,3,River Forest,273
+2815,2018,3,River Grove,21
+2816,2018,3,Riverdale,1598
+2817,2018,3,Riverside,12
+2818,2018,3,Robbins,93
+2819,2018,3,Rolling Mdws,110
+2820,2018,3,Rolling Meadows,233
+2821,2018,3,Roselle,10
+2822,2018,3,Rosemont,526
+2823,2018,3,S Chicago Heights,33
+2824,2018,3,Sauk Village,664
+2825,2018,3,Schaumburg,586
+2826,2018,3,Schiller Park,56
+2827,2018,3,Skokie,623
+2828,2018,3,South Barrington,486
+2829,2018,3,South Chicago Heights,4
+2830,2018,3,South Holland,649
+2831,2018,3,Steger,84
+2832,2018,3,Stickney,39
+2833,2018,3,Stone Park,17
+2834,2018,3,Streamwood,629
+2835,2018,3,Summit,139
+2836,2018,3,Thornton,2
+2837,2018,3,Tinley Park,430
+2838,2018,3,Vernon Hills,6
+2839,2018,3,West Dundee,8
+2840,2018,3,Westchester,43
+2841,2018,3,Western Springs,22
+2842,2018,3,Wheaton,8
+2843,2018,3,Wheeling,404
+2844,2018,3,Willow Springs,33
+2845,2018,3,Wilmette,127
+2846,2018,3,Winnetka,107
+2847,2018,3,Worth,122
+2848,2018,4,Alsip,3664
+2849,2018,4,Arlington Heights,1304
+2850,2018,4,Barrington,1523
+2851,2018,4,Bartlett,182
+2852,2018,4,Bedford Park,42
+2853,2018,4,Bellwood,629
+2854,2018,4,Berkeley,240
+2855,2018,4,Berwyn,1917
+2856,2018,4,Blue Island,875
+2857,2018,4,Braidwood,1
+2858,2018,4,Bridgeview,1400
+2859,2018,4,Broadview,262
+2860,2018,4,Brookfield,123
+2861,2018,4,Buffalo Grove,241
+2862,2018,4,Burbank,1032
+2863,2018,4,Burnham,156
+2864,2018,4,Burr Ridge,16
+2865,2018,4,Calumet City,1340
+2866,2018,4,Calumet Park,378
+2867,2018,4,Chicago,134342
+2868,2018,4,Chicago Heights,6031
+2869,2018,4,Chicago Ridge,136
+2870,2018,4,Cicero,2351
+2871,2018,4,Country Club Hills,493
+2872,2018,4,Countryside,109
+2873,2018,4,Crestwood,925
+2874,2018,4,Crete,1
+2875,2018,4,Deerfield,1
+2876,2018,4,Des Plaines,479
+2877,2018,4,Dixmoor,79
+2878,2018,4,Dolton,1490
+2879,2018,4,Dundee,4
+2880,2018,4,East Hazel Crest,116
+2881,2018,4,Elgin,167
+2882,2018,4,Elk Grove Village,472
+2883,2018,4,Elmhurst,82
+2884,2018,4,Elmwood Park,489
+2885,2018,4,Evanston,1573
+2886,2018,4,Evergreen Park,502
+2887,2018,4,Evergreen Pk,1
+2888,2018,4,Flossmoor,326
+2889,2018,4,Ford Heights,399
+2890,2018,4,Forest Park,381
+2891,2018,4,Forestview,70
+2892,2018,4,Franklin Park,495
+2893,2018,4,Glencoe,258
+2894,2018,4,Glenview,299
+2895,2018,4,Glenwood,180
+2896,2018,4,Hammond,1
+2897,2018,4,Hanover Park,617
+2898,2018,4,Harvey,2673
+2899,2018,4,Harwood Heights,101
+2900,2018,4,Hazel Crest,424
+2901,2018,4,Hickory Hills,148
+2902,2018,4,Hillside,301
+2903,2018,4,Hines,10
+2904,2018,4,Hinsdale,29
+2905,2018,4,Hodgkins,99
+2906,2018,4,Hoffman Est,107
+2907,2018,4,Hoffman Estates,423
+2908,2018,4,Homer Glen,1
+2909,2018,4,Hometown,227
+2910,2018,4,Homewood,1504
+2911,2018,4,Indian Head Park,5
+2912,2018,4,Jefferson Park,55
+2913,2018,4,Justice,445
+2914,2018,4,Kenilworth,35
+2915,2018,4,La Grange,31
+2916,2018,4,La Grange Park,41
+2917,2018,4,Lansing,587
+2918,2018,4,Lemont,263
+2919,2018,4,Lincolnwood,191
+2920,2018,4,Lynwood,184
+2921,2018,4,Lyons,126
+2922,2018,4,Markham,577
+2923,2018,4,Matteson,3059
+2924,2018,4,Maywood,774
+2925,2018,4,Mc Cook,160
+2926,2018,4,Melrose Park,635
+2927,2018,4,Merrionett Pk,4
+2928,2018,4,Merrionette Park,2
+2929,2018,4,Midlothian,291
+2930,2018,4,Morton,1
+2931,2018,4,Morton Grove,117
+2932,2018,4,Mount Greenwood,7
+2933,2018,4,Mount Prospect,522
+2934,2018,4,Mt Prospect,10
+2935,2018,4,N Riverside,122
+2936,2018,4,Niles,588
+2937,2018,4,Norridge,283
+2938,2018,4,North Riverside,512
+2939,2018,4,Northbrook,227
+2940,2018,4,Northfield,166
+2941,2018,4,Northlake,85
+2942,2018,4,Oak Forest,65
+2943,2018,4,Oak Lawn,2288
+2944,2018,4,Oak Park,942
+2945,2018,4,Olympia Fields,245
+2946,2018,4,Orland Hills,626
+2947,2018,4,Orland Park,3541
+2948,2018,4,Palatine,1144
+2949,2018,4,Palos Heights,42
+2950,2018,4,Palos Hills,89
+2951,2018,4,Palos Park,6
+2952,2018,4,Park Forest,1033
+2953,2018,4,Park Ridge,63
+2954,2018,4,Phoenix,29
+2955,2018,4,Posen,178
+2956,2018,4,Prospect Heights,386
+2957,2018,4,Richton Park,1828
+2958,2018,4,River Forest,361
+2959,2018,4,River Grove,123
+2960,2018,4,Riverdale,787
+2961,2018,4,Riverside,142
+2962,2018,4,Robbins,347
+2963,2018,4,Rolling Mdws,84
+2964,2018,4,Rolling Meadows,228
+2965,2018,4,Roselle,25
+2966,2018,4,Rosemont,664
+2967,2018,4,S Chicago Hei,1
+2968,2018,4,S Chicago Heights,12
+2969,2018,4,Sauk Village,1160
+2970,2018,4,Schaumburg,608
+2971,2018,4,Schiller Park,488
+2972,2018,4,Skokie,968
+2973,2018,4,South Barrington,142
+2974,2018,4,South Chicago Heights,2
+2975,2018,4,South Holland,409
+2976,2018,4,Steger,284
+2977,2018,4,Stickney,346
+2978,2018,4,Stone Park,36
+2979,2018,4,Streamwood,559
+2980,2018,4,Summit,571
+2981,2018,4,Summit Argo,1
+2982,2018,4,Thornton,23
+2983,2018,4,Tinley Park,396
+2984,2018,4,West Dundee,8
+2985,2018,4,Westchester,97
+2986,2018,4,Western Springs,66
+2987,2018,4,Wheaton,8
+2988,2018,4,Wheeling,400
+2989,2018,4,Willow Springs,13
+2990,2018,4,Wilmette,211
+2991,2018,4,Winnetka,19
+2992,2018,4,Worth,244
+2993,2018,A,Alsip,319
+2994,2018,A,Arlington Heights,25
+2995,2018,A,Barrington,27
+2996,2018,A,Bedford Park,5
+2997,2018,A,Bellwood,42
+2998,2018,A,Berkeley,9
+2999,2018,A,Berwyn,98
+3000,2018,A,Blue Island,28
+3001,2018,A,Bridgeview,12
+3002,2018,A,Broadview,28
+3003,2018,A,Brookfield,2
+3004,2018,A,Buffalo Grove,14
+3005,2018,A,Burbank,69
+3006,2018,A,Burnham,4
+3007,2018,A,Calumet City,25
+3008,2018,A,Calumet Park,11
+3009,2018,A,Chicago,3829
+3010,2018,A,Chicago Heights,61
+3011,2018,A,Chicago Ridge,14
+3012,2018,A,Cicero,181
+3013,2018,A,Cimic,1
+3014,2018,A,Country Club Hills,14
+3015,2018,A,Countryside,4
+3016,2018,A,Crestwood,2
+3017,2018,A,Des Plaines,36
+3018,2018,A,Dixmoor,2
+3019,2018,A,Dolton,23
+3020,2018,A,Elgin,17
+3021,2018,A,Elk Grove Village,67
+3022,2018,A,Elmhurst,2
+3023,2018,A,Elmwood Park,78
+3024,2018,A,Evanston,34
+3025,2018,A,Evergreen Park,46
+3026,2018,A,Flossmoor,6
+3027,2018,A,Ford Heights,7
+3028,2018,A,Forest Park,81
+3029,2018,A,Forestview,2
+3030,2018,A,Franklin Park,25
+3031,2018,A,Glencoe,3
+3032,2018,A,Glenview,20
+3033,2018,A,Hanover Park,23
+3034,2018,A,Harvey,63
+3035,2018,A,Harwood Heights,31
+3036,2018,A,Hazel Crest,4
+3037,2018,A,Hickory Hills,11
+3038,2018,A,Hillside,10
+3039,2018,A,Hodgkins,6
+3040,2018,A,Hoffman Est,1
+3041,2018,A,Hoffman Estates,122
+3042,2018,A,Hometown,10
+3043,2018,A,Homewood,10
+3044,2018,A,Indian Head Park,12
+3045,2018,A,Jefferson Park,11
+3046,2018,A,Justice,27
+3047,2018,A,La Grange Park,1
+3048,2018,A,La Grange Pk,1
+3049,2018,A,Lansing,9
+3050,2018,A,Lemont,33
+3051,2018,A,Lincolnwood,7
+3052,2018,A,Lynwood,18
+3053,2018,A,Lyons,8
+3054,2018,A,Markham,56
+3055,2018,A,Matteson,18
+3056,2018,A,Maywood,42
+3057,2018,A,Mc Cook,5
+3058,2018,A,Melrose Park,63
+3059,2018,A,Merrionett Pk,1
+3060,2018,A,Merrionette Park,2
+3061,2018,A,Midlothian,10
+3062,2018,A,Morton Grove,9
+3063,2018,A,Mount Prospect,30
+3064,2018,A,Mt Prospect,3
+3065,2018,A,Niles,13
+3066,2018,A,Norridge,2
+3067,2018,A,North Riverside,52
+3068,2018,A,Northbrook,13
+3069,2018,A,Northlake,23
+3070,2018,A,Oak Forest,7
+3071,2018,A,Oak Lawn,87
+3072,2018,A,Oak Park,42
+3073,2018,A,Olympia Fields,23
+3074,2018,A,Orland Park,121
+3075,2018,A,Palatine,85
+3076,2018,A,Palos Heights,3
+3077,2018,A,Palos Hills,15
+3078,2018,A,Park Forest,7
+3079,2018,A,Park Ridge,10
+3080,2018,A,Phoenix,1
+3081,2018,A,Posen,9
+3082,2018,A,Prospect Heights,19
+3083,2018,A,Richton Park,4
+3084,2018,A,River Forest,17
+3085,2018,A,River Grove,2
+3086,2018,A,Riverdale,6
+3087,2018,A,Riverside,26
+3088,2018,A,Robbins,4
+3089,2018,A,Rolling Meadows,32
+3090,2018,A,Rosemont,86
+3091,2018,A,S Chicago Hts,1
+3092,2018,A,Sauk Village,24
+3093,2018,A,Schaumburg,42
+3094,2018,A,Schiller Park,14
+3095,2018,A,Skokie,48
+3096,2018,A,South Barrington,3
+3097,2018,A,South Holland,26
+3098,2018,A,Steger,8
+3099,2018,A,Stickney,1
+3100,2018,A,Stone Park,9
+3101,2018,A,Streamwood,66
+3102,2018,A,Summit,23
+3103,2018,A,Thornton,2
+3104,2018,A,Tinley Park,18
+3105,2018,A,Westchester,6
+3106,2018,A,Western Springs,4
+3107,2018,A,Wheeling,29
+3108,2018,A,Wilmette,6
+3109,2018,A,Winnetka,1
+3110,2018,A,Worth,22
+3111,2018,B,Alsip,1
+3112,2018,B,Bellwood,4
+3113,2018,B,Berwyn,2
+3114,2018,B,Blue Island,1
+3115,2018,B,Calumet City,1
+3116,2018,B,Calumet Park,1
+3117,2018,B,Chicago,192
+3118,2018,B,Cicero,2
+3119,2018,B,Evergreen Park,1
+3120,2018,B,Flossmoor,3
+3121,2018,B,Ford Heights,2
+3122,2018,B,Forest Park,1
+3123,2018,B,Glenview,1
+3124,2018,B,Hanover Park,1
+3125,2018,B,Maywood,7
+3126,2018,B,Midlothian,2
+3127,2018,B,Oak Lawn,3
+3128,2018,B,Orland Park,2
+3129,2018,B,Schaumburg,6
+3130,2018,B,South Barrington,2
+3131,2018,B,Streamwood,4
+3132,2018,B,Worth,1
+3133,2018,C,Berkeley,2
+3134,2018,C,Broadview,4
+3135,2018,C,Chicago,92
+3136,2018,C,Cicero,13
+3137,2018,C,Des Plaines,4
+3138,2018,C,Evansville,7
+3139,2018,C,Franklin Park,1
+3140,2018,C,Glenwood,2
+3141,2018,C,Maywood,3
+3142,2018,C,Melrose Park,4
+3143,2018,C,Oak Park,1
+3144,2018,C,Orland Park,5
+3145,2018,C,Palatine,6
+3146,2018,C,Park Ridge,1
+3147,2018,C,River Forest,2
+3148,2018,C,Rosemont,7
+3149,2018,C,Sauk Village,4
+3150,2018,C,Tinley Park,1
+3151,2018,C,Winnetka,2
+3152,2018,M,Bellwood,353
+3153,2018,M,Berwyn,16
+3154,2018,M,Blue Island,72
+3155,2018,M,Broadview,77
+3156,2018,M,Calumet City,20
+3157,2018,M,Calumet Park,2040
+3158,2018,M,Chicago,114600
+3159,2018,M,Dolton,760
+3160,2018,M,Evanston,30
+3161,2018,M,Flossmoor,56
+3162,2018,M,Ford Heights,4
+3163,2018,M,Harvey,1190
+3164,2018,M,Lansing,532
+3165,2018,M,Lyons,2
+3166,2018,M,Markham,64
+3167,2018,M,Maywood,107
+3168,2018,M,Melrose Park,1287
+3169,2018,M,Northlake,2
+3170,2018,M,Oak Forest,49
+3171,2018,M,Oak Lawn,6
+3172,2018,M,Palos Park,24
+3173,2018,M,Park Forest,448
+3174,2018,M,Sauk Village,4340
+3175,2018,M,Summit,4
+3176,2018,O,Chicago,11
+3177,2018,O,Cicero,2
+3178,2018,O,River Grove,2
+3179,2018,P,Chicago,6
+3180,2018,X,Alsip,33931
+3181,2018,X,Arlington Heights,567
+3182,2018,X,Barrington,57
+3183,2018,X,Bedford Park,287
+3184,2018,X,Bellwood,180
+3185,2018,X,Berkeley,34
+3186,2018,X,Berwyn,1256
+3187,2018,X,Blue Island,604
+3188,2018,X,Bridgeview,308
+3189,2018,X,Broadview,54
+3190,2018,X,Brookfield,12
+3191,2018,X,Buffalo Grove,466
+3192,2018,X,Burbank,567
+3193,2018,X,Burnham,3594
+3194,2018,X,Burr Ridge,3
+3195,2018,X,Calumet City,1489
+3196,2018,X,Calumet Park,157
+3197,2018,X,Chicago,108323
+3198,2018,X,Chicago Heights,2246
+3199,2018,X,Chicago Ridge,97
+3200,2018,X,Cicero,1237
+3201,2018,X,Country Club Hills,319
+3202,2018,X,Countryside,1098
+3203,2018,X,Crestwood,74
+3204,2018,X,Des Plaines,443
+3205,2018,X,Dixmoor,5
+3206,2018,X,Dolton,1414
+3207,2018,X,East Hazel Crest,20
+3208,2018,X,Elgin,346
+3209,2018,X,Elk Grove Village,1347
+3210,2018,X,Elmwood Park,209
+3211,2018,X,Evanston,482
+3212,2018,X,Evergreen Park,68
+3213,2018,X,Flossmoor,56
+3214,2018,X,Ford Heights,1849
+3215,2018,X,Forest Park,97
+3216,2018,X,Forestview,645
+3217,2018,X,Franklin Park,25
+3218,2018,X,Glenview,21
+3219,2018,X,Glenwood,508
+3220,2018,X,Hanover Park,115
+3221,2018,X,Harvey,2524
+3222,2018,X,Harwood Heights,19
+3223,2018,X,Hazel Crest,2402
+3224,2018,X,Hillside,5
+3225,2018,X,Hoffman Est,2
+3226,2018,X,Hoffman Estates,24
+3227,2018,X,Hometown,14
+3228,2018,X,Homewood,236
+3229,2018,X,Justice,235
+3230,2018,X,Lansing,1748
+3231,2018,X,Lemont,297
+3232,2018,X,Lincolnwood,32
+3233,2018,X,Lynwood,90
+3234,2018,X,Lyons,2
+3235,2018,X,Markham,1967
+3236,2018,X,Matteson,59
+3237,2018,X,Maywood,462
+3238,2018,X,Melrose Park,1206
+3239,2018,X,Midlothian,416
+3240,2018,X,Mount Prospect,170
+3241,2018,X,Mt Prospect,18
+3242,2018,X,Niles,151
+3243,2018,X,Norridge,24
+3244,2018,X,Northbrook,147
+3245,2018,X,Northfield,2
+3246,2018,X,Northlake,67
+3247,2018,X,Oak Forest,101
+3248,2018,X,Oak Lawn,218
+3249,2018,X,Oak Park,1374
+3250,2018,X,Olympia Fields,170
+3251,2018,X,Orland Hills,8
+3252,2018,X,Orland Park,404
+3253,2018,X,Palatine,2168
+3254,2018,X,Palos Park,2
+3255,2018,X,Park Forest,10272
+3256,2018,X,Park Ridge,6
+3257,2018,X,Posen,6
+3258,2018,X,Prospect Heights,31
+3259,2018,X,Richton Park,602
+3260,2018,X,River Forest,8
+3261,2018,X,River Grove,10
+3262,2018,X,Riverdale,264
+3263,2018,X,Robbins,38
+3264,2018,X,Rolling Mdws,44
+3265,2018,X,Rolling Meadows,678
+3266,2018,X,Roselle,5
+3267,2018,X,Rosemont,22
+3268,2018,X,S Chicago Heights,66
+3269,2018,X,Sauk Village,2625
+3270,2018,X,Schaumburg,231
+3271,2018,X,Schiller Park,28
+3272,2018,X,Skokie,179
+3273,2018,X,South Chicago Heights,301
+3274,2018,X,South Holland,620
+3275,2018,X,Steger,35
+3276,2018,X,Stickney,223
+3277,2018,X,Stone Park,6
+3278,2018,X,Streamwood,960
+3279,2018,X,Summit,90
+3280,2018,X,Tinley Park,77
+3281,2018,X,Wheeling,737
+3282,2018,X,Willow Springs,244
+3283,2018,X,Worth,31
+3284,2018,Z,Chicago,23
+3285,2018,Z,Northlake,1
+3286,2018,Z,Richton Park,21
+3287,2019,1,Alsip,27
+3288,2019,1,Arlington Heights,504
+3289,2019,1,Barrington,92
+3290,2019,1,Barrington Hills,60
+3291,2019,1,Bartlett,8
+3292,2019,1,Bellwood,62
+3293,2019,1,Berkeley,27
+3294,2019,1,Berwyn,649
+3295,2019,1,Blue Island,244
+3296,2019,1,Bridgeview,68
+3297,2019,1,Broadview,8
+3298,2019,1,Brookfield,4
+3299,2019,1,Buffalo Grove,3
+3300,2019,1,Burbank,18
+3301,2019,1,Burnham,6
+3302,2019,1,Burr Ridge,6
+3303,2019,1,Calumet City,447
+3304,2019,1,Calumet Park,140
+3305,2019,1,Chicago,20499
+3306,2019,1,Chicago Heights,61
+3307,2019,1,Chicago Ridge,16
+3308,2019,1,Cicero,247
+3309,2019,1,Country Club Hills,189
+3310,2019,1,Countryside,118
+3311,2019,1,Crestwood,51
+3312,2019,1,Des Plaines,407
+3313,2019,1,Dixmoor,110
+3314,2019,1,Dolton,603
+3315,2019,1,Elgin,5
+3316,2019,1,Elk Grove Village,35
+3317,2019,1,Elmwood Park,39
+3318,2019,1,Evanston,296
+3319,2019,1,Evergreen Park,166
+3320,2019,1,Ford Heights,32
+3321,2019,1,Forest Park,146
+3322,2019,1,Franklin Park,53
+3323,2019,1,Glenview,789
+3324,2019,1,Glenwood,60
+3325,2019,1,Golf,3
+3326,2019,1,Hanover Park,12
+3327,2019,1,Harvey,569
+3328,2019,1,Harwood Heights,87
+3329,2019,1,Hazel Crest,23
+3330,2019,1,Hickory Hills,12
+3331,2019,1,Hillside,41
+3332,2019,1,Hinsdale,6
+3333,2019,1,Hodgkins,33
+3334,2019,1,Hoffman Est,8
+3335,2019,1,Hoffman Estates,61
+3336,2019,1,Homewood,196
+3337,2019,1,Justice,87
+3338,2019,1,La Grange,15
+3339,2019,1,La Grange Park,1
+3340,2019,1,Lansing,184
+3341,2019,1,Lemont,35
+3342,2019,1,Lincolnwood,78
+3343,2019,1,Lynwood,9
+3344,2019,1,Markham,34
+3345,2019,1,Matteson,935
+3346,2019,1,Maywood,110
+3347,2019,1,Melrose Park,181
+3348,2019,1,Midlothian,164
+3349,2019,1,Morton Grove,13
+3350,2019,1,Mount Prospect,82
+3351,2019,1,N Riverside,3
+3352,2019,1,Niles,23
+3353,2019,1,Norridge,34
+3354,2019,1,North Riverside,22
+3355,2019,1,Northbrook,30
+3356,2019,1,Northfield,30
+3357,2019,1,Northlake,21
+3358,2019,1,Oak Forest,64
+3359,2019,1,Oak Lawn,665
+3360,2019,1,Oak Park,130
+3361,2019,1,Olympia Fields,7
+3362,2019,1,Orland Park,149
+3363,2019,1,Palatine,142
+3364,2019,1,Palos Hills,3
+3365,2019,1,Park Forest,95
+3366,2019,1,Park Ridge,2
+3367,2019,1,Posen,68
+3368,2019,1,Prospect Heights,21
+3369,2019,1,Richton Park,222
+3370,2019,1,River Forest,4
+3371,2019,1,River Grove,13
+3372,2019,1,Riverdale,279
+3373,2019,1,Riverside,20
+3374,2019,1,Robbins,91
+3375,2019,1,Rolling Meadows,36
+3376,2019,1,Rosemont,31
+3377,2019,1,S Chicago Heights,9
+3378,2019,1,Sauk Village,604
+3379,2019,1,Schaumburg,97
+3380,2019,1,Schiller Park,44
+3381,2019,1,Skokie,107
+3382,2019,1,South Barrington,11
+3383,2019,1,South Holland,137
+3384,2019,1,Steger,10
+3385,2019,1,Stickney,11
+3386,2019,1,Stone Park,5
+3387,2019,1,Streamwood,37
+3388,2019,1,Summit,84
+3389,2019,1,Summit Argo,132
+3390,2019,1,Thornton,6
+3391,2019,1,Tinley Park,23
+3392,2019,1,Westchester,12
+3393,2019,1,Western Springs,30
+3394,2019,1,Wheeling,180
+3395,2019,1,Willow Springs,1
+3396,2019,1,Wilmette,15
+3397,2019,1,Worth,34
+3398,2019,2,Alsip,277
+3399,2019,2,Arlington Heights,954
+3400,2019,2,Barrington,429
+3401,2019,2,Bartlett,14
+3402,2019,2,Bedford Park,47
+3403,2019,2,Bellwood,314
+3404,2019,2,Berkeley,300
+3405,2019,2,Berwyn,651
+3406,2019,2,Blue Island,2184
+3407,2019,2,Bridgeview,514
+3408,2019,2,Broadview,216
+3409,2019,2,Brookfield,35
+3410,2019,2,Buffalo Grove,408
+3411,2019,2,Burbank,445
+3412,2019,2,Burnham,126
+3413,2019,2,Burr Ridge,6
+3414,2019,2,Calumet City,2476
+3415,2019,2,Calumet Park,229
+3416,2019,2,Chicago,110319
+3417,2019,2,Chicago Heights,995
+3418,2019,2,Chicago Ridge,699
+3419,2019,2,Cicero,706
+3420,2019,2,Cntry Clb Hls,24
+3421,2019,2,Country Club Hills,1143
+3422,2019,2,Countryside,166
+3423,2019,2,Crestwood,29
+3424,2019,2,Deerfield,16
+3425,2019,2,Des Plaines,756
+3426,2019,2,Dixmoor,30
+3427,2019,2,Dolton,1419
+3428,2019,2,Downers Grove,1
+3429,2019,2,East Hazel Crest,48
+3430,2019,2,Elgin,84
+3431,2019,2,Elk Grove Village,261
+3432,2019,2,Elmwood Park,174
+3433,2019,2,Evanston,2346
+3434,2019,2,Evergreen Park,1414
+3435,2019,2,Flossmoor,49
+3436,2019,2,Ford Heights,891
+3437,2019,2,Forest Park,325
+3438,2019,2,Franklin Park,587
+3439,2019,2,Glencoe,3
+3440,2019,2,Glenview,2178
+3441,2019,2,Glenwood,283
+3442,2019,2,Hanover Park,226
+3443,2019,2,Harvey,3190
+3444,2019,2,Harwood Heights,138
+3445,2019,2,Hazel Crest,464
+3446,2019,2,Hickory Hills,152
+3447,2019,2,Hillside,1545
+3448,2019,2,Hinsdale,5
+3449,2019,2,Hodgkins,1004
+3450,2019,2,Hoffman Est,9
+3451,2019,2,Hoffman Estates,396
+3452,2019,2,Hometown,114
+3453,2019,2,Homewood,579
+3454,2019,2,Indian Head Park,2501
+3455,2019,2,Justice,90
+3456,2019,2,La Grange,159
+3457,2019,2,La Grange Park,12
+3458,2019,2,Lansing,700
+3459,2019,2,Lemont,44
+3460,2019,2,Lincolnwood,141
+3461,2019,2,Lombard,1
+3462,2019,2,Lynwood,48
+3463,2019,2,Lyons,68
+3464,2019,2,Markham,1049
+3465,2019,2,Matteson,1096
+3466,2019,2,Maywood,1042
+3467,2019,2,Mc Cook,30
+3468,2019,2,Melrose Park,627
+3469,2019,2,Merrionette Park,5
+3470,2019,2,Midlothian,127
+3471,2019,2,Morton Grove,136
+3472,2019,2,Mount Prospect,163
+3473,2019,2,Mt Prospect,3
+3474,2019,2,Niles,1829
+3475,2019,2,Norridge,157
+3476,2019,2,North Riverside,35
+3477,2019,2,Northbrook,79
+3478,2019,2,Northfield,331
+3479,2019,2,Northlake,195
+3480,2019,2,Oak Brook,40
+3481,2019,2,Oak Forest,372
+3482,2019,2,Oak Lawn,2180
+3483,2019,2,Oak Park,614
+3484,2019,2,Olympia Fields,84
+3485,2019,2,Orland Hills,1
+3486,2019,2,Orland Park,1755
+3487,2019,2,Palatine,1997
+3488,2019,2,Palos Heights,217
+3489,2019,2,Palos Hills,48
+3490,2019,2,Palos Park,3
+3491,2019,2,Park Forest,907
+3492,2019,2,Park Ridge,24
+3493,2019,2,Phoenix,37
+3494,2019,2,Posen,225
+3495,2019,2,Prospect Heights,99
+3496,2019,2,Richton Park,122
+3497,2019,2,River Forest,166
+3498,2019,2,River Grove,12
+3499,2019,2,Riverdale,1113
+3500,2019,2,Riverside,25
+3501,2019,2,Robbins,300
+3502,2019,2,Rolling Mdws,24
+3503,2019,2,Rolling Meadows,285
+3504,2019,2,Rosemont,764
+3505,2019,2,S Barrington,13
+3506,2019,2,S Chicago Heights,41
+3507,2019,2,Sauk Village,10944
+3508,2019,2,Schaumburg,536
+3509,2019,2,Schiller Park,528
+3510,2019,2,Skokie,515
+3511,2019,2,South Barrington,258
+3512,2019,2,South Chicago Heights,83
+3513,2019,2,South Holland,1598
+3514,2019,2,Steger,33
+3515,2019,2,Stickney,35
+3516,2019,2,Stone Park,41
+3517,2019,2,Streamwood,186
+3518,2019,2,Summit,131
+3519,2019,2,Thornton,40
+3520,2019,2,Tinley Park,431
+3521,2019,2,Warren,14
+3522,2019,2,Westchester,15
+3523,2019,2,Western Springs,96
+3524,2019,2,Wheeling,505
+3525,2019,2,Willow Springs,20
+3526,2019,2,Wilmette,115
+3527,2019,2,Winnetka,27
+3528,2019,2,Worth,162
+3529,2019,3,Alsip,328
+3530,2019,3,Arlington Heights,334
+3531,2019,3,Barrington,960
+3532,2019,3,Bartlett,61
+3533,2019,3,Bedford Park,49
+3534,2019,3,Bellwood,103
+3535,2019,3,Berkeley,184
+3536,2019,3,Berwyn,222
+3537,2019,3,Blue Island,885
+3538,2019,3,Bolingbrook,2
+3539,2019,3,Bridgeview,1897
+3540,2019,3,Broadview,65
+3541,2019,3,Brookfield,2
+3542,2019,3,Buffalo Grove,96
+3543,2019,3,Burbank,262
+3544,2019,3,Burnham,152
+3545,2019,3,Burr Ridge,5
+3546,2019,3,Calumet City,1019
+3547,2019,3,Calumet Park,58
+3548,2019,3,Chicago,37468
+3549,2019,3,Chicago Heights,464
+3550,2019,3,Chicago Ridge,195
+3551,2019,3,Cicero,283
+3552,2019,3,Cntry Clb Hls,6
+3553,2019,3,Country Club Hills,368
+3554,2019,3,Countryside,191
+3555,2019,3,Crestwood,121
+3556,2019,3,Deerfield,99
+3557,2019,3,Des Plaines,890
+3558,2019,3,Dixmoor,5
+3559,2019,3,Dolton,2276
+3560,2019,3,East Hazel Crest,49
+3561,2019,3,Elgin,23
+3562,2019,3,Elk Grove Village,386
+3563,2019,3,Elmwood,4
+3564,2019,3,Elmwood Park,737
+3565,2019,3,Evanston,2561
+3566,2019,3,Evergreen Park,992
+3567,2019,3,Flossmoor,554
+3568,2019,3,Ford Heights,125
+3569,2019,3,Forest Park,312
+3570,2019,3,Forestview,4
+3571,2019,3,Franklin Park,62
+3572,2019,3,Glenview,1312
+3573,2019,3,Glenwood,109
+3574,2019,3,Golf,3
+3575,2019,3,Hanover Park,71
+3576,2019,3,Harvey,836
+3577,2019,3,Harwood Heights,277
+3578,2019,3,Harwood Hgts,1
+3579,2019,3,Hazel Crest,101
+3580,2019,3,Hickory Hills,280
+3581,2019,3,Hillside,146
+3582,2019,3,Hinsdale,2
+3583,2019,3,Hodgkins,184
+3584,2019,3,Hoffman Estates,246
+3585,2019,3,Hometown,50
+3586,2019,3,Homewood,3893
+3587,2019,3,Indian Head Park,2
+3588,2019,3,Justice,41
+3589,2019,3,La Grange,299
+3590,2019,3,La Grange Park,5
+3591,2019,3,Lansing,423
+3592,2019,3,Lemont,115
+3593,2019,3,Lincolnwood,227
+3594,2019,3,Lynwood,14
+3595,2019,3,Lyons,41
+3596,2019,3,Markham,90
+3597,2019,3,Matteson,6711
+3598,2019,3,Maywood,207
+3599,2019,3,Mc Cook,14
+3600,2019,3,Melrose Park,222
+3601,2019,3,Merrionette Park,2
+3602,2019,3,Midlothian,319
+3603,2019,3,Morton Grove,108
+3604,2019,3,Mount Prospect,1118
+3605,2019,3,Mt Prospect,4
+3606,2019,3,N Riverside,3
+3607,2019,3,Niles,3436
+3608,2019,3,Norridge,176
+3609,2019,3,North Riverside,38
+3610,2019,3,Northbrook,274
+3611,2019,3,Northfield,226
+3612,2019,3,Northlake,55
+3613,2019,3,Oak Brook,16
+3614,2019,3,Oak Forest,498
+3615,2019,3,Oak Lawn,2711
+3616,2019,3,Oak Park,444
+3617,2019,3,Olympia Fields,42
+3618,2019,3,Orland Hills,1
+3619,2019,3,Orland Park,4599
+3620,2019,3,Palatine,1366
+3621,2019,3,Palos Heights,290
+3622,2019,3,Palos Hills,22
+3623,2019,3,Palos Park,1
+3624,2019,3,Park Forest,238
+3625,2019,3,Park Ridge,12
+3626,2019,3,Phoenix,70
+3627,2019,3,Posen,547
+3628,2019,3,Prospect Heights,70
+3629,2019,3,Richton Park,847
+3630,2019,3,River Forest,32
+3631,2019,3,River Grove,16
+3632,2019,3,Riverdale,242
+3633,2019,3,Riverside,2
+3634,2019,3,Robbins,220
+3635,2019,3,Rolling Meadows,214
+3636,2019,3,Roselle,4
+3637,2019,3,Rosemont,560
+3638,2019,3,S Barrington,94
+3639,2019,3,S Chicago Heights,346
+3640,2019,3,Sauget,1
+3641,2019,3,Sauk Village,20197
+3642,2019,3,Schaumburg,431
+3643,2019,3,Schiller Park,73
+3644,2019,3,Skokie,699
+3645,2019,3,South Barrington,436
+3646,2019,3,South Bend,1
+3647,2019,3,South Chicago Heights,9
+3648,2019,3,South Holland,247
+3649,2019,3,Steger,8
+3650,2019,3,Stickney,17
+3651,2019,3,Stone Park,18
+3652,2019,3,Streamwood,170
+3653,2019,3,Summit,95
+3654,2019,3,Thornton,6
+3655,2019,3,Tinley Park,232
+3656,2019,3,Warren,126
+3657,2019,3,Westchester,17
+3658,2019,3,Wheeling,375
+3659,2019,3,Willow Springs,65
+3660,2019,3,Wilmette,76
+3661,2019,3,Winnetka,63
+3662,2019,3,Worth,164
+3663,2019,4,Alsip,796
+3664,2019,4,Arlington Heights,1434
+3665,2019,4,Barrington,1228
+3666,2019,4,Barrington Hills,20
+3667,2019,4,Bartlett,14
+3668,2019,4,Bedford Park,64
+3669,2019,4,Bellwood,814
+3670,2019,4,Berkeley,25
+3671,2019,4,Berwyn,939
+3672,2019,4,Blue Island,530
+3673,2019,4,Bolingbrook,2
+3674,2019,4,Braidwood,2
+3675,2019,4,Bridgeview,412
+3676,2019,4,Broadview,135
+3677,2019,4,Brookfield,7
+3678,2019,4,Buffalo Grove,245
+3679,2019,4,Burbank,665
+3680,2019,4,Burnham,70
+3681,2019,4,Burr Ridge,16
+3682,2019,4,Calumet City,1637
+3683,2019,4,Calumet Park,200
+3684,2019,4,Chicago,114901
+3685,2019,4,Chicago Heights,1284
+3686,2019,4,Chicago Hts,1
+3687,2019,4,Chicago Ridge,281
+3688,2019,4,Cicero,1323
+3689,2019,4,Cntry Clb Hls,22
+3690,2019,4,Country Club Hills,204
+3691,2019,4,Countryside,592
+3692,2019,4,Crestwood,63
+3693,2019,4,Deerfield,35
+3694,2019,4,Des Plaines,728
+3695,2019,4,Dixmoor,340
+3696,2019,4,Dolton,1160
+3697,2019,4,East Hazel Crest,175
+3698,2019,4,Elgin,201
+3699,2019,4,Elk Grove Village,200
+3700,2019,4,Elmwood Park,252
+3701,2019,4,Evanston,1764
+3702,2019,4,Evergreen Park,1379
+3703,2019,4,Evergreen Pk,1
+3704,2019,4,Flossmoor,263
+3705,2019,4,Ford Heights,201
+3706,2019,4,Forest City,4
+3707,2019,4,Forest Park,222
+3708,2019,4,Forestview,5
+3709,2019,4,Franklin Park,362
+3710,2019,4,Glencoe,2
+3711,2019,4,Glenview,335
+3712,2019,4,Glenwood,159
+3713,2019,4,Hanover Park,476
+3714,2019,4,Harvey,2066
+3715,2019,4,Harwood Heights,214
+3716,2019,4,Hazel Crest,155
+3717,2019,4,Hickory Hills,96
+3718,2019,4,Hillside,4852
+3719,2019,4,Hinsdale,37
+3720,2019,4,Hodgkins,180
+3721,2019,4,Hoffman Est,7
+3722,2019,4,Hoffman Estates,566
+3723,2019,4,Hometown,391
+3724,2019,4,Homewood,1117
+3725,2019,4,Indian Head Park,1
+3726,2019,4,Indianhead Park,1
+3727,2019,4,Inverness,2
+3728,2019,4,Justice,271
+3729,2019,4,La Grange,476
+3730,2019,4,La Grange Park,26
+3731,2019,4,La Grange Pk,1
+3732,2019,4,Lansing,1242
+3733,2019,4,Lawrence,1
+3734,2019,4,Lemont,240
+3735,2019,4,Lincolnwood,907
+3736,2019,4,Lynwood,177
+3737,2019,4,Lyons,28
+3738,2019,4,Markham,512
+3739,2019,4,Matteson,470
+3740,2019,4,Maywood,337
+3741,2019,4,Mc Cook,128
+3742,2019,4,Melrose Park,419
+3743,2019,4,Merrionette Park,71
+3744,2019,4,Midlothian,928
+3745,2019,4,Morton Grove,189
+3746,2019,4,Mount Prospect,517
+3747,2019,4,Mt Prospect,3
+3748,2019,4,N Riverside,1
+3749,2019,4,Niles,429
+3750,2019,4,Norridge,103
+3751,2019,4,North Riverside,71
+3752,2019,4,Northbrook,324
+3753,2019,4,Northfield,69
+3754,2019,4,Northlake,110
+3755,2019,4,Oak Brook,8
+3756,2019,4,Oak Forest,192
+3757,2019,4,Oak Lawn,2689
+3758,2019,4,Oak Park,433
+3759,2019,4,Olympia Fields,17
+3760,2019,4,Orland Hills,1
+3761,2019,4,Orland Park,2373
+3762,2019,4,Palatine,846
+3763,2019,4,Palos Heights,147
+3764,2019,4,Palos Hills,102
+3765,2019,4,Palos Park,8
+3766,2019,4,Park Forest,352
+3767,2019,4,Park Ridge,24
+3768,2019,4,Phoenix,4
+3769,2019,4,Posen,282
+3770,2019,4,Prospect Heights,401
+3771,2019,4,Prospect Hts,2
+3772,2019,4,Richton Park,644
+3773,2019,4,River Forest,200
+3774,2019,4,River Grove,97
+3775,2019,4,Riverdale,245
+3776,2019,4,Riverside,48
+3777,2019,4,Robbins,743
+3778,2019,4,Rolling Meadows,384
+3779,2019,4,Rosemont,836
+3780,2019,4,S Barrington,67
+3781,2019,4,S Chicago Heights,89
+3782,2019,4,Sauk Village,363
+3783,2019,4,Schaumburg,590
+3784,2019,4,Schiller Park,1104
+3785,2019,4,Skokie,669
+3786,2019,4,South Barrington,49
+3787,2019,4,South Chicago Heights,22
+3788,2019,4,South Holland,408
+3789,2019,4,Steger,26
+3790,2019,4,Stickney,13
+3791,2019,4,Stone Park,58
+3792,2019,4,Streamwood,384
+3793,2019,4,Summit,489
+3794,2019,4,Summit Argo,12
+3795,2019,4,Thornton,8
+3796,2019,4,Tinley Park,412
+3797,2019,4,Warren,56
+3798,2019,4,Westchester,35
+3799,2019,4,Western Springs,4
+3800,2019,4,Wheaton,1
+3801,2019,4,Wheeling,525
+3802,2019,4,Willow Springs,39
+3803,2019,4,Wilmette,186
+3804,2019,4,Winnetka,33
+3805,2019,4,Worth,178
+3806,2019,A,Alsip,19
+3807,2019,A,Arlington Heights,54
+3808,2019,A,Arlington Hts,1
+3809,2019,A,Barrington,5
+3810,2019,A,Bartlett,11
+3811,2019,A,Bedford Park,4
+3812,2019,A,Bellwood,27
+3813,2019,A,Berkeley,6
+3814,2019,A,Berwyn,37
+3815,2019,A,Blue Island,96
+3816,2019,A,Braidwood,2
+3817,2019,A,Bridgeview,7
+3818,2019,A,Broadview,11
+3819,2019,A,Brookfield,11
+3820,2019,A,Buffalo Grove,5
+3821,2019,A,Burbank,24
+3822,2019,A,Burnham,1
+3823,2019,A,Calumet City,34
+3824,2019,A,Calumet Park,3
+3825,2019,A,Chicago,3862
+3826,2019,A,Chicago Heights,66
+3827,2019,A,Chicago Ridge,4
+3828,2019,A,Cicero,143
+3829,2019,A,Country Club Hills,15
+3830,2019,A,Countryside,4
+3831,2019,A,Crestwood,7
+3832,2019,A,Des Plaines,28
+3833,2019,A,Dolton,31
+3834,2019,A,East Hazel Crest,4
+3835,2019,A,Elgin,8
+3836,2019,A,Elk Grove Village,36
+3837,2019,A,Elmhurst,1
+3838,2019,A,Elmwood Park,26
+3839,2019,A,Evanston,24
+3840,2019,A,Evergreen Park,11
+3841,2019,A,Flossmoor,1
+3842,2019,A,Ford Heights,2
+3843,2019,A,Forest Park,24
+3844,2019,A,Franklin Park,55
+3845,2019,A,Glenview,7
+3846,2019,A,Glenwood,8
+3847,2019,A,Hanover Park,85
+3848,2019,A,Harvey,100
+3849,2019,A,Harwood Heights,8
+3850,2019,A,Hazel Crest,5
+3851,2019,A,Hillside,15
+3852,2019,A,Hoffman Estates,32
+3853,2019,A,Homewood,31
+3854,2019,A,Indian Head Park,2
+3855,2019,A,Indianhead Park,1
+3856,2019,A,Ingleside,2
+3857,2019,A,Inverness,2
+3858,2019,A,Justice,5
+3859,2019,A,La Grange,3
+3860,2019,A,Lansing,20
+3861,2019,A,Lemont,12
+3862,2019,A,Lincolnwood,19
+3863,2019,A,Lynwood,4
+3864,2019,A,Lyons,4
+3865,2019,A,Markham,22
+3866,2019,A,Matteson,25
+3867,2019,A,Maywood,55
+3868,2019,A,Melrose Park,43
+3869,2019,A,Midlothian,23
+3870,2019,A,Morton Grove,7
+3871,2019,A,Mount Prospect,46
+3872,2019,A,Niles,18
+3873,2019,A,Norridge,43
+3874,2019,A,North Riverside,16
+3875,2019,A,Northbrook,4
+3876,2019,A,Northlake,21
+3877,2019,A,Oak Forest,8
+3878,2019,A,Oak Lawn,32
+3879,2019,A,Oak Park,32
+3880,2019,A,Olympia Fields,1
+3881,2019,A,Orland Hills,1
+3882,2019,A,Orland Park,45
+3883,2019,A,Palatine,253
+3884,2019,A,Palos Heights,10
+3885,2019,A,Palos Hills,13
+3886,2019,A,Palos Park,1
+3887,2019,A,Park Forest,11
+3888,2019,A,Park Ridge,4
+3889,2019,A,Posen,12
+3890,2019,A,Prospect Heights,9
+3891,2019,A,Prospect Hts,2
+3892,2019,A,Richton Park,11
+3893,2019,A,River Forest,9
+3894,2019,A,River Grove,6
+3895,2019,A,Riverdale,4
+3896,2019,A,Riverside,8
+3897,2019,A,Robbins,20
+3898,2019,A,Rolling Meadows,18
+3899,2019,A,Rosemont,200
+3900,2019,A,S Chicago Heights,22
+3901,2019,A,Sauk Village,12
+3902,2019,A,Schaumburg,44
+3903,2019,A,Schiller Park,50
+3904,2019,A,Skokie,48
+3905,2019,A,South Barrington,9
+3906,2019,A,South Chicago Heights,9
+3907,2019,A,South Holland,9
+3908,2019,A,Stickney,2
+3909,2019,A,Stone Park,7
+3910,2019,A,Streamwood,50
+3911,2019,A,Summit,2
+3912,2019,A,Tinley Park,5
+3913,2019,A,Westchester,12
+3914,2019,A,Wheeling,31
+3915,2019,A,Wilmette,4
+3916,2019,A,Worth,4
+3917,2019,B,Alsip,2
+3918,2019,B,Bellwood,1
+3919,2019,B,Berwyn,1
+3920,2019,B,Burbank,3
+3921,2019,B,Calumet City,1
+3922,2019,B,Chicago,150
+3923,2019,B,Chicago Heights,1
+3924,2019,B,Country Club Hills,3
+3925,2019,B,Homewood,3
+3926,2019,B,Melrose Park,2
+3927,2019,B,Midlothian,1
+3928,2019,B,Riverdale,1
+3929,2019,B,Sauk Village,3
+3930,2019,B,South Chicago Heights,1
+3931,2019,B,Streamwood,6
+3932,2019,C,Bellwood,2
+3933,2019,C,Berwyn,17
+3934,2019,C,Chicago,81
+3935,2019,C,Chicago Ridge,10
+3936,2019,C,Cicero,1
+3937,2019,C,Des Plaines,18
+3938,2019,C,Evanston,1
+3939,2019,C,Hickory Hills,1
+3940,2019,C,Matteson,2
+3941,2019,C,Melrose Park,2
+3942,2019,C,Midlothian,5
+3943,2019,C,Mount Prospect,2
+3944,2019,C,Oak Lawn,1
+3945,2019,C,Posen,6
+3946,2019,C,Riverside,2
+3947,2019,C,Rosemont,4
+3948,2019,C,Skokie,1
+3949,2019,C,Westchester,1
+3950,2019,M,Bedford Park,29
+3951,2019,M,Berwyn,4
+3952,2019,M,Blue Island,240
+3953,2019,M,Calumet City,218
+3954,2019,M,Calumet Park,437
+3955,2019,M,Chicago,85816
+3956,2019,M,Chicago Heights,64
+3957,2019,M,Cicero,168
+3958,2019,M,Des Plaines,144
+3959,2019,M,Dixmoor,1540
+3960,2019,M,Dolton,64
+3961,2019,M,Elk Grove Village,48
+3962,2019,M,Evanston,30
+3963,2019,M,Harvey,80
+3964,2019,M,Lansing,56
+3965,2019,M,Oak Forest,4
+3966,2019,M,Orland Park,64
+3967,2019,M,Park Forest,48
+3968,2019,M,Riverdale,420
+3969,2019,M,Robbins,114
+3970,2019,M,Sauk Village,252
+3971,2019,M,Schiller Park,210
+3972,2019,M,South Holland,160
+3973,2019,O,Streamwood,2
+3974,2019,P,Chicago,10
+3975,2019,X,Alsip,88
+3976,2019,X,Arlington Heights,425
+3977,2019,X,Bellwood,162
+3978,2019,X,Berkeley,22
+3979,2019,X,Berwyn,646
+3980,2019,X,Blue Island,852
+3981,2019,X,Bridgeview,291
+3982,2019,X,Broadview,522
+3983,2019,X,Burbank,26
+3984,2019,X,Burnham,3
+3985,2019,X,Burr Ridge,3
+3986,2019,X,Calumet City,1887
+3987,2019,X,Calumet Park,105
+3988,2019,X,Chicago,68968
+3989,2019,X,Chicago Heights,318
+3990,2019,X,Chicago Ridge,54
+3991,2019,X,Cicero,340
+3992,2019,X,Country Club Hills,1066
+3993,2019,X,Countryside,2
+3994,2019,X,Crestwood,81
+3995,2019,X,Deerfield,1
+3996,2019,X,Des Plaines,770
+3997,2019,X,Dixmoor,1058
+3998,2019,X,Dolton,4200
+3999,2019,X,East Hazel Crest,93
+4000,2019,X,Elgin,23
+4001,2019,X,Elk Grove Village,26
+4002,2019,X,Elmwood Park,48
+4003,2019,X,Evanston,1016
+4004,2019,X,Evergreen Park,227
+4005,2019,X,Flossmoor,4
+4006,2019,X,Ford Heights,427
+4007,2019,X,Forest Park,151
+4008,2019,X,Franklin Park,78
+4009,2019,X,Glenview,371
+4010,2019,X,Glenwood,52
+4011,2019,X,Golf,3
+4012,2019,X,Hanover Park,2
+4013,2019,X,Harvey,2309
+4014,2019,X,Hazel Crest,88
+4015,2019,X,Hickory Hills,108
+4016,2019,X,Hillside,350
+4017,2019,X,Hoffman Est,2
+4018,2019,X,Hoffman Estates,141
+4019,2019,X,Homewood,638
+4020,2019,X,Justice,53
+4021,2019,X,La Grange,333
+4022,2019,X,Lansing,188
+4023,2019,X,Lemont,4
+4024,2019,X,Lincolnwood,162
+4025,2019,X,Lynwood,9
+4026,2019,X,Lyons,10
+4027,2019,X,Markham,74
+4028,2019,X,Matteson,222
+4029,2019,X,Maywood,227
+4030,2019,X,Melrose Park,258
+4031,2019,X,Midlothian,45
+4032,2019,X,Minneapolis,11
+4033,2019,X,Mount Prospect,154
+4034,2019,X,N Riverside,6
+4035,2019,X,Niles,1
+4036,2019,X,Norridge,22
+4037,2019,X,Northbrook,23
+4038,2019,X,Northfield,12
+4039,2019,X,Northlake,29
+4040,2019,X,Oak Forest,432
+4041,2019,X,Oak Lawn,670
+4042,2019,X,Oak Park,259
+4043,2019,X,Olympia Fields,6
+4044,2019,X,Orland Park,211
+4045,2019,X,Palatine,783
+4046,2019,X,Park Forest,793
+4047,2019,X,Park Ridge,6
+4048,2019,X,Phoenix,209
+4049,2019,X,Prospect Heights,26
+4050,2019,X,Richton Park,386
+4051,2019,X,River Forest,4
+4052,2019,X,Riverdale,549
+4053,2019,X,Riverside,22
+4054,2019,X,Robbins,315
+4055,2019,X,Rolling Mdws,12
+4056,2019,X,Rolling Meadows,7
+4057,2019,X,Rosemont,13
+4058,2019,X,S Chicago Heights,128
+4059,2019,X,Sauk Village,582
+4060,2019,X,Schaumburg,150
+4061,2019,X,Schiller Park,228
+4062,2019,X,Skokie,141
+4063,2019,X,South Chicago Heights,4
+4064,2019,X,South Holland,628
+4065,2019,X,Stickney,7
+4066,2019,X,Stone Park,7
+4067,2019,X,Streamwood,36
+4068,2019,X,Summit,272
+4069,2019,X,Thornton,12
+4070,2019,X,Tinley Park,30
+4071,2019,X,Western Springs,27
+4072,2019,X,Wheeling,321
+4073,2019,X,Wilmette,12
+4074,2019,X,Worth,6
+4075,2019,Z,Chicago,3
+4076,2019,Z,Chicago Heights,1

@@ -1,0 +1,27 @@
+'''
+Project Title: Exploring Racial Biases in CCSAO Sentencing
+Data source: Cook County State's Attorney Office's (CCASO) Open Data Portal
+            Initiation and Dispositions Data for 2015-2019
+url: https://datacatalog.cookcountyil.gov/browse?tags=state%27s+attorney+case-level&sortBy=most_accessed
+Data dictionary: https://www.cookcountystatesattorney.org/sites/default/files/files/documents/column_by_dataset_glossary_final_1.pdf
+
+Questions:
+1. How does race impact charges over time?
+2. How likely is the initial charge to be changed depending on race?
+
+Plan:
+1. Upload the datasets and conduct any necessary cleaning of the data.
+2. Utilizing the data dictionary categorize the charges into guilty, not guilty, and other.
+3. Run the following regression:
+    independent variable: race of defendant
+    dependent variable: charge at disposition
+    control variables: judge, district, age, gender, year
+4. Interpret results of regression
+5. Create a variable to determine if the charge changed from initiation to disposition
+6. Run the following regression:
+    independent variable: race of defendant
+    dependent variable: dummy variable indicating change in charge
+    control variables: judge, district, age, gender, year
+5. Graphically display the relationship between race and charge over time
+6. Utilize spatial data to display verdict by region/district
+'''
